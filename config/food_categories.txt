@@ -1,0 +1,11 @@
+# BigBasket categories to include for recipe ingredient matching (one per line)
+# Non-food categories (Beauty, Cleaning, Kitchen equipment, etc.) are excluded.
+# These are the main grocery/food categories observed in BigBasketProducts.csv
+
+Gourmet & World Food
+Snacks & Branded Foods
+Foodgrains, Oil & Masala
+Beverages
+Bakery, Cakes & Dairy
+Fruits & Vegetables
+Eggs, Meat & Fish

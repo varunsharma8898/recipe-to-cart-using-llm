@@ -1,0 +1,10 @@
+# pipeline params
+build_cart:
+  top_k_retrieve: 10
+  max_candidates_rerank: 5
+  use_reranker: true
+  # Candidate retrieval: "bm25" (BM25 only) or "llm" (BM25 pool + LLM selects top-k).
+  # With use_reranker: true the final product is chosen by the reranker, so cart may look the same either way; set use_reranker: false to compare retrieval-only.
+  retrieval_method: llm
+  # When retrieval_method is "llm", BM25 fetches this many candidates; LLM then picks top_k_retrieve
+  llm_retrieval_pool_size: 30

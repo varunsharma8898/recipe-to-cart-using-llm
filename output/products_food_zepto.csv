@@ -1,0 +1,223 @@
+category,product,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity,sale_price,market_price,weight_in_gms,brand,description,sub_category,type,rating,index
+Fruits & Vegetables,Onion,2500,16,3,2100,1000,False,1,21.0,25.0,1000,,,,,,1
+Fruits & Vegetables,Tomato Hybrid,4200,16,3,3500,1000,False,1,35.0,42.0,1000,,,,,,2
+Fruits & Vegetables,Tender Coconut,5100,15,3,4300,58,False,1,43.0,51.0,58,,,,,,3
+Fruits & Vegetables,Coriander Leaves,2000,15,3,1700,100,False,100,17.0,20.0,100,,,,,,4
+Fruits & Vegetables,Ladies Finger ,1400,14,3,1200,250,False,250,12.0,14.0,250,,,,,,5
+Fruits & Vegetables,Potato,3500,17,3,2900,1000,False,1,29.0,35.0,1000,,,,,,6
+Fruits & Vegetables,Lemon,7500,16,3,6300,200,False,200,63.0,75.0,200,,,,,,7
+Fruits & Vegetables,Watermelon ,5800,15,3,4900,58,False,1,49.0,58.0,58,,,,,,8
+Fruits & Vegetables,Capsicum Green ,2300,17,3,1900,250,False,250,19.0,23.0,250,,,,,,9
+Fruits & Vegetables,Chilli Green ,1900,15,3,1600,100,False,100,16.0,19.0,100,,,,,,10
+Fruits & Vegetables,Banana Robusta,2900,17,3,2400,348,False,6,24.0,29.0,348,,,,,,11
+Fruits & Vegetables,Garlic Indian ,1100,18,3,900,100,False,100,9.0,11.0,100,,,,,,12
+Fruits & Vegetables,Cauliflower,2600,15,3,2200,58,False,1,22.0,26.0,58,,,,,,13
+Fruits & Vegetables,Ginger,1400,14,3,1200,200,False,200,12.0,14.0,200,,,,,,14
+Fruits & Vegetables,Spinach,1900,15,3,1600,250,False,250,16.0,19.0,250,,,,,,15
+Fruits & Vegetables,Muskmelon,4200,16,3,3500,58,False,1,35.0,42.0,58,,,,,,16
+Fruits & Vegetables,Cabbage ,1500,13,3,1300,58,False,1,13.0,15.0,58,,,,,,17
+Fruits & Vegetables,Methi,3000,16,3,2500,250,False,250,25.0,30.0,250,,,,,,18
+Fruits & Vegetables,Broccoli,3600,16,3,3000,500,False,500,30.0,36.0,500,,,,,,19
+Fruits & Vegetables,Sapota,3000,16,3,2500,348,False,6,25.0,30.0,348,,,,,,20
+Fruits & Vegetables,Onion,6800,16,3,5700,3000,False,3,57.0,68.0,3000,,,,,,21
+Fruits & Vegetables,Potato,10000,16,3,8400,3000,False,3,84.0,100.0,3000,,,,,,22
+Fruits & Vegetables,Orange Nagpur,8200,15,3,6900,232,False,4,69.0,82.0,232,,,,,,23
+Fruits & Vegetables,Mint Leaves ,1100,18,3,900,100,False,100,9.0,11.0,100,,,,,,24
+Fruits & Vegetables,Beans French,3300,15,3,2800,250,False,250,28.0,33.0,250,,,,,,25
+Fruits & Vegetables,Bottle Gourd ,2600,15,3,2200,58,False,1,22.0,26.0,58,,,,,,26
+Fruits & Vegetables,Banana Elaichi ,5800,15,3,4900,348,False,6,49.0,58.0,348,,,,,,27
+Fruits & Vegetables,Coconut Big,3600,16,3,3000,58,False,1,30.0,36.0,58,,,,,,28
+Fruits & Vegetables,Curry Leaves,1300,15,3,1100,50,False,50,11.0,13.0,50,,,,,,29
+Fruits & Vegetables,Brinjal Bharta,1900,15,3,1600,58,False,1,16.0,19.0,58,,,,,,30
+Fruits & Vegetables,Lettuce Iceberg,2500,16,3,2100,250,False,250,21.0,25.0,250,,,,,,31
+Fruits & Vegetables,Papaya,5400,16,3,4500,58,False,1,45.0,54.0,58,,,,,,32
+Fruits & Vegetables,Apple Shimla,14200,16,3,11900,232,False,4,119.0,142.0,232,,,,,,33
+Fruits & Vegetables,Bitter Gourd,1800,16,3,1500,250,False,250,15.0,18.0,250,,,,,,34
+Fruits & Vegetables,Brinjal Small,1800,16,3,1500,250,False,250,15.0,18.0,250,,,,,,35
+Fruits & Vegetables,Sweet Corn,3600,16,3,3000,116,False,2,30.0,36.0,116,,,,,,36
+Fruits & Vegetables,Spring Onion ,1800,16,3,1500,250,False,250,15.0,18.0,250,,,,,,37
+Fruits & Vegetables,Bell Peppers Red & Yellow ,11800,16,3,9900,116,False,2,99.0,118.0,116,,,,,,38
+Fruits & Vegetables,Pomegranate ,10600,16,3,8900,116,False,2,89.0,106.0,116,,,,,,39
+Fruits & Vegetables,Sweet Lime,3000,16,3,2500,116,False,2,25.0,30.0,116,,,,,,40
+Fruits & Vegetables,Baby Potato,1900,15,3,1600,500,False,500,16.0,19.0,500,,,,,,41
+Fruits & Vegetables,Coccinia,3200,15,3,2700,250,False,250,27.0,32.0,250,,,,,,42
+Fruits & Vegetables,Guava,5400,16,3,4500,232,False,4,45.0,54.0,232,,,,,,43
+Fruits & Vegetables,Apple Washington,17700,15,3,14900,232,False,4,149.0,177.0,232,,,,,,44
+Fruits & Vegetables,Amla,3200,15,3,2700,250,False,250,27.0,32.0,250,,,,,,45
+Fruits & Vegetables,Beans Cluster,3000,16,3,2500,250,False,250,25.0,30.0,250,,,,,,46
+Fruits & Vegetables,Apple Royal Gala,18900,15,3,15900,232,False,4,159.0,189.0,232,,,,,,47
+Fruits & Vegetables,Chilli Bhaji,3000,16,3,2500,250,False,250,25.0,30.0,250,,,,,,48
+Fruits & Vegetables,Lettuce Green,2300,17,3,1900,100,False,100,19.0,23.0,100,,,,,,49
+Fruits & Vegetables,Baby Corn Peeled,3500,17,3,2900,250,False,250,29.0,35.0,250,,,,,,50
+Fruits & Vegetables,Mixed Sprouts,3500,17,3,2900,200,False,200,29.0,35.0,200,,,,,,51
+Fruits & Vegetables,Zucchini Green,3500,17,3,2900,250,False,250,29.0,35.0,250,,,,,,52
+Fruits & Vegetables,Beans Broad,4200,16,3,3500,250,False,250,35.0,42.0,250,,,,,,53
+Fruits & Vegetables,Raw Banana,2000,15,6,1700,500,False,500,17.0,20.0,500,,,,,,54
+Fruits & Vegetables,Colocasia ,2900,17,6,2400,500,False,500,24.0,29.0,500,,,,,,55
+Fruits & Vegetables,Tomato Cherry ,3500,17,3,2900,200,False,200,29.0,35.0,200,,,,,,56
+Fruits & Vegetables,Sweet Potato ,3800,15,3,3200,500,False,500,32.0,38.0,500,,,,,,57
+Fruits & Vegetables,Pineapple Slice,8900,15,3,7500,200,False,200,75.0,89.0,200,,,,,,58
+Fruits & Vegetables,Orange,5400,16,3,4500,116,False,2,45.0,54.0,116,,,,,,59
+Fruits & Vegetables,Dragon Fruit Imported,7000,15,3,5900,58,False,1,59.0,70.0,58,,,,,,60
+Fruits & Vegetables,Zucchini Yellow,4200,16,3,3500,250,False,500,35.0,42.0,250,,,,,,61
+Fruits & Vegetables,Apple Kinnaur,14200,16,6,11900,232,False,4,119.0,142.0,232,,,,,,62
+Fruits & Vegetables,Pineapple,9400,15,3,7900,58,False,1,79.0,94.0,58,,,,,,63
+Fruits & Vegetables,Basil,2000,15,3,1700,100,False,100,17.0,20.0,100,,,,,,64
+Fruits & Vegetables,Parsley,1700,17,3,1400,100,False,100,14.0,17.0,100,,,,,,65
+Fruits & Vegetables,Ridge Gourd,3000,16,3,2500,500,False,500,25.0,30.0,500,,,,,,66
+Fruits & Vegetables,Papaya Cut,4600,15,3,3900,200,False,200,39.0,46.0,200,,,,,,67
+Fruits & Vegetables,Pomegranate Peeled,5800,15,2,4900,100,False,100,49.0,58.0,100,,,,,,68
+Fruits & Vegetables,Pear Green Imported,8200,15,3,6900,116,False,2,69.0,82.0,116,,,,,,69
+Fruits & Vegetables,Guava Thai,7000,15,3,5900,116,False,2,59.0,70.0,116,,,,,,70
+Fruits & Vegetables,Lettuce Red,2000,15,3,1700,100,False,100,17.0,20.0,100,,,,,,71
+Fruits & Vegetables,Mango Raw,6000,16,3,5000,500,False,500,50.0,60.0,500,,,,,,72
+Fruits & Vegetables,Biryani /Pulav Mix,5800,15,3,4900,250,False,250,49.0,58.0,250,,,,,,73
+Fruits & Vegetables,Banana Nendran,5400,16,6,4500,500,False,500,45.0,54.0,500,,,,,,74
+Fruits & Vegetables,Pumpkin Cut,3000,16,3,2500,200,False,200,25.0,30.0,200,,,,,,75
+Fruits & Vegetables,Banana Red,5400,16,6,4500,500,False,500,45.0,54.0,500,,,,,,76
+Fruits & Vegetables,Radish White,2300,17,6,1900,500,False,500,19.0,23.0,500,,,,,,77
+Fruits & Vegetables,Avocado Indian Premium,17700,15,3,14900,58,False,1,149.0,177.0,58,,,,,,78
+Fruits & Vegetables,Banana Leaf,1200,16,2,1000,58,False,1,10.0,12.0,58,,,,,,79
+Fruits & Vegetables,Sponge Gourd,2500,16,2,2100,300,False,300,21.0,25.0,300,,,,,,80
+Fruits & Vegetables,Zama Organics Carrot,2000,15,3,1700,250,False,250,17.0,20.0,250,,,,,,81
+Fruits & Vegetables,Safal Frozen - Mixed Vegetables,11000,4,2,10500,1000,False,1,105.0,110.0,1000,,,,,,82
+Fruits & Vegetables,Zama Organics Sweet Potato,3700,16,3,3100,250,False,250,31.0,37.0,250,,,,,,83
+Fruits & Vegetables,Beetroot,1600,18,3,1300,500,False,500,13.0,16.0,500,,,,,,84
+Fruits & Vegetables,Capsicum,2600,19,3,2100,500,False,500,21.0,26.0,500,,,,,,85
+Fruits & Vegetables,Carrot,1900,21,3,1500,500,False,500,15.0,19.0,500,,,,,,86
+Fruits & Vegetables,Garlic,1700,23,3,1300,200,False,200,13.0,17.0,200,,,,,,87
+Fruits & Vegetables,Carrot,1300,15,0,1100,250,True,200,11.0,13.0,250,,,,,,88
+Fruits & Vegetables,Beetroot,1100,18,0,900,250,True,250,9.0,11.0,250,,,,,,89
+Fruits & Vegetables,Moong Sprouts,3500,17,0,2900,200,True,200,29.0,35.0,200,,,,,,90
+Fruits & Vegetables,Safal Frozen Mixed Vegetables,6000,5,0,5700,500,True,500,57.0,60.0,500,,,,,,91
+Fruits & Vegetables,Safal Frozen Corn,4100,4,0,3900,200,True,200,39.0,41.0,200,,,,,,92
+Fruits & Vegetables,Safal Frozen - Sweet Corn,16000,5,0,15200,1000,True,1,152.0,160.0,1000,,,,,,93
+Beverages,Mother Dairy Toned Milk Pouch,2500,0,4,2500,500,False,500,25.0,25.0,500,,,,,,1251
+Beverages,Mother Dairy Classic Curd,3000,3,6,2900,400,False,400,29.0,30.0,400,,,,,,1252
+Beverages,Mother Dairy Ultra Full Cream Milk,3100,0,4,3100,500,False,500,31.0,31.0,500,,,,,,1253
+Beverages,Amul Butter - Pasteurised,5000,2,6,4900,100,False,100,49.0,50.0,100,,,,,,1254
+Beverages,Britannia Sandwich White Bread,3300,0,4,3300,350,False,350,33.0,33.0,350,,,,,,1255
+Beverages,iD Curd Pouch,3500,2,6,3400,400,False,400,34.0,35.0,400,,,,,,1256
+Beverages,iD Idli & Dosa Batter ,8000,15,6,6800,1000,False,1,68.0,80.0,1000,,,,,,1257
+Beverages,Britannia 100% Whole Wheat Bread,4500,0,4,4500,450,False,450,45.0,45.0,450,,,,,,1258
+Beverages,Britannia Healthy Slice Sandwich Bread,4000,0,4,4000,450,False,450,40.0,40.0,450,,,,,,1259
+Beverages,Gowardhan Classic Block Fresh Paneer,8900,8,6,8100,200,False,200,81.0,89.0,200,,,,,,1260
+Beverages,Amul Processed Cheese Cubes,10600,4,6,10100,200,False,200,101.0,106.0,200,,,,,,1261
+Beverages,Britannia Pav,2200,0,4,2200,250,False,250,22.0,22.0,250,,,,,,1262
+Beverages,Amul Butter - Pasteurised,24500,2,6,24000,500,False,500,240.0,245.0,500,,,,,,1263
+Beverages,Arden Eggs White,9700,0,4,9700,696,False,12,97.0,97.0,696,,,,,,1264
+Beverages,Arden Eggs White,6500,15,4,5500,348,False,6,55.0,65.0,348,,,,,,1265
+Beverages,Nestle A+ Nourish Dahi,3500,2,6,3400,200,False,200,34.0,35.0,200,,,,,,1266
+Beverages,Britannia Burger Bun with Sesame Seed,1500,0,4,1500,100,False,100,15.0,15.0,100,,,,,,1267
+Beverages,Amul Frozen Malai Paneer,7500,2,6,7300,200,False,200,73.0,75.0,200,,,,,,1268
+Beverages,iD Natural Paneer,10500,5,6,9900,200,False,200,99.0,105.0,200,,,,,,1269
+Beverages,Britannia Fruit Bun,1700,0,3,1700,100,False,100,17.0,17.0,100,,,,,,1270
+Beverages,Amul Cheese - Processed Slices,12200,1,6,12000,200,False,200,120.0,122.0,200,,,,,,1271
+Beverages,iD Curd Cup,6000,0,6,6000,400,False,400,60.0,60.0,400,,,,,,1272
+Beverages,The Bake Shop Premium White Sandwich Bread,3000,0,1,3000,400,False,400,30.0,30.0,400,,,,,,1273
+Beverages,Britannia Multigrain Bread ,5500,0,4,5500,400,False,400,55.0,55.0,400,,,,,,1274
+Beverages,Amul Processed Cheese Block,10600,0,6,10600,200,False,200,106.0,106.0,200,,,,,,1275
+Beverages,Nestle A+ Nourish Dahi,7000,2,6,6800,400,False,400,68.0,70.0,400,,,,,,1276
+Beverages,Arden Eggs Brown,8500,7,4,7900,348,False,6,79.0,85.0,348,,,,,,1277
+Beverages,Epigamia Misti Doi,3000,0,6,3000,85,False,85,30.0,30.0,85,,,,,,1278
+Beverages,Amul Cheese - Block,24500,2,6,24000,500,False,500,240.0,245.0,500,,,,,,1279
+Beverages,Amul Butter - Pasteurised (School Pack),5900,3,6,5700,100,False,100,57.0,59.0,100,,,,,,1280
+Beverages,Britannia Brown Bread ,4200,0,4,4200,400,False,400,42.0,42.0,400,,,,,,1281
+Beverages,Amul Fresh Cream,19700,3,3,19100,1000,False,1,191.0,197.0,1000,,,,,,1282
+Beverages,Epigamia Natural Greek Yogurt,4500,0,6,4500,90,False,90,45.0,45.0,90,,,,,,1283
+Beverages,The Bake Shop Pizza Base,3000,0,1,3000,150,False,150,30.0,30.0,150,,,,,,1284
+Beverages,Amul Delicious Fat Spread - Cholesterol Free,1800,5,6,1700,100,False,100,17.0,18.0,100,,,,,,1285
+Beverages,D'lecta Dairy Cream,5400,5,6,5100,200,False,200,51.0,54.0,200,,,,,,1286
+Beverages,Nestle A+ Actiplus Probiotic Dahi Plain Curd,7800,3,5,7500,400,False,400,75.0,78.0,400,,,,,,1287
+Beverages,Bio Nutrients Pure Diet Tofu Gold ,6000,5,5,5700,200,False,200,57.0,60.0,200,,,,,,1288
+Beverages,Amul Delicious Fat Spread - Cholesterol Free,8800,2,2,8600,500,False,500,86.0,88.0,500,,,,,,1289
+Beverages,Amul Mithai Mate Condensed Sweetened Milk,5600,3,4,5400,200,False,200,54.0,56.0,200,,,,,,1290
+Beverages,Arden Desi Eggs,11000,13,4,9500,348,False,6,95.0,110.0,348,,,,,,1291
+Beverages,Amul Cheese - Pepper,8500,3,6,8200,200,False,200,82.0,85.0,200,,,,,,1292
+Beverages,Amul Cheese Spread Creamy,8500,5,6,8000,180,False,180,80.0,85.0,180,,,,,,1293
+Beverages,The Bake Shop Foot Long,4000,0,1,4000,200,False,200,40.0,40.0,200,,,,,,1294
+Beverages,Amul Cheese Slices,36000,0,1,35900,750,False,750,359.0,360.0,750,,,,,,1295
+Beverages,Suguna Sharp Egg ,7200,13,3,6200,348,False,6,62.0,72.0,348,,,,,,1296
+Beverages,Amul Cheese Sauce Mexican Salsa,7500,4,1,7200,200,False,200,72.0,75.0,200,,,,,,1297
+Beverages,Nestle Everyday Dairy Whitener,21000,0,4,21000,400,False,400,210.0,210.0,400,,,,,,1298
+Beverages,Amul Pizza Cheese Processed,10900,4,6,10400,200,False,200,104.0,109.0,200,,,,,,1299
+Beverages,Betty Crocker Complete Pancake Mix Original,11000,4,6,10500,250,False,500,105.0,110.0,250,,,,,,1300
+Beverages,Amul Lite Spread,4000,2,5,3900,100,False,100,39.0,40.0,100,,,,,,1301
+Beverages,Go Cheese Slice - Plain,14000,5,6,13300,200,False,200,133.0,140.0,200,,,,,,1302
+Beverages,Pillsbury Choco Chip Pancake Mix,9900,5,6,9400,165,False,165,94.0,99.0,165,,,,,,1303
+Beverages,RRO Sour Cream,27500,50,4,13700,200,False,200,137.0,275.0,200,,,,,,1304
+Beverages,D'lecta Natural Feta Cheese Block,10000,5,4,9500,100,False,100,95.0,100.0,100,,,,,,1305
+Beverages,Suguna Active - DHA,7200,13,4,6200,348,False,6,62.0,72.0,348,,,,,,1306
+Beverages,Go Cheese Processed Angles Plain,10000,5,6,9500,160,False,160,95.0,100.0,160,,,,,,1307
+Beverages,Epigamia Greek Yogurt - Natural,20000,0,1,20000,400,False,400,200.0,200.0,400,,,,,,1308
+Beverages,Amul Unsalted Cooking Butter,24500,2,6,23800,500,False,500,238.0,245.0,500,,,,,,1309
+Beverages,The Whole Truth Dark Chocolate Peanut Butter - Creamy,23500,25,6,17400,325,False,325,174.0,235.0,325,,,,,,1310
+Beverages,The Laughing Cow Cheese Slices,15500,0,2,15500,200,False,200,155.0,155.0,200,,,,,,1311
+Beverages,Epigamia Almond Milk Unsweetened Dairy Free,30000,33,4,19900,1000,False,1,199.0,300.0,1000,,,,,,1312
+Beverages,Go Cheese  Spread Plain,9900,5,6,9400,200,False,200,94.0,99.0,200,,,,,,1313
+Beverages,So Good Almond Milk - Natural Unsweetened,7000,0,4,7000,200,False,200,70.0,70.0,200,,,,,,1314
+Beverages,Amul Cheese Sauce Jalapeno,7500,0,5,7500,200,False,200,75.0,75.0,200,,,,,,1315
+Beverages,D'lecta Cream Cheese,16900,4,4,16100,150,False,150,161.0,169.0,150,,,,,,1316
+Beverages,Dlecta Natural Cheddar Slices,19900,5,6,18900,200,False,200,189.0,199.0,200,,,,,,1317
+Beverages,Suguna Heart- Omega3,7200,13,4,6200,348,False,6,62.0,72.0,348,,,,,,1318
+Beverages,Go Cheese Spread - Garlic,9900,5,6,9400,200,False,200,94.0,99.0,200,,,,,,1319
+Beverages,Go Pizza Cheese,14000,5,6,13300,200,False,200,133.0,140.0,200,,,,,,1320
+Beverages,RRO Cheddar Block Cheese,29500,50,6,14700,200,False,200,147.0,295.0,200,,,,,,1321
+Beverages,The Whole Truth Peanut Butter With Dates - Creamy No Sugar,21500,9,6,19400,325,False,325,194.0,215.0,325,,,,,,1322
+Beverages,Suguna Fit Egg,12000,43,4,6800,348,False,6,68.0,120.0,348,,,,,,1323
+Beverages,Pantai Coconut Cream,15000,4,4,14300,400,False,400,143.0,150.0,400,,,,,,1324
+Beverages,RRO Fresh Ricotta,27500,50,6,13700,200,False,200,137.0,275.0,200,,,,,,1325
+Beverages,Dlecta Cheese Cubes 2,14500,5,6,13700,200,False,200,137.0,145.0,200,,,,,,1326
+Beverages,RRO Mozzarella Pizza Cheese,27500,50,6,13700,200,False,200,137.0,275.0,200,,,,,,1327
+Beverages,The Laughing Cow Cheese Cubes,15000,0,4,15000,200,False,200,150.0,150.0,200,,,,,,1328
+Beverages,Yogabar 100% Pure Peanut Butter Creamy & Yummy Unsweetened,22900,10,6,20600,400,False,400,206.0,229.0,400,,,,,,1329
+Beverages,RRO Burrata Cheese,25000,50,4,12500,200,False,200,125.0,250.0,200,,,,,,1330
+Beverages,The Whole Truth Dark Chocolate Peanut Butter - Crunchy,23500,20,5,18800,325,False,325,188.0,235.0,325,,,,,,1331
+Beverages,Go Cheese Processed Squares,12500,5,6,11800,200,False,200,118.0,125.0,200,,,,,,1332
+Beverages,Funfoods Peanut Butter Crunchy,16900,7,1,15600,400,False,400,156.0,169.0,400,,,,,,1333
+Beverages,Amul Safed Makkhan,23500,1,6,23200,500,False,500,232.0,235.0,500,,,,,,1334
+Beverages,Go Cheese Spread - Four Pepper (Soft & Creamy),9900,5,6,9400,200,False,200,94.0,99.0,200,,,,,,1335
+Beverages,Dlicia Whip Topping Bottle,23500,27,5,17100,1000,False,1,171.0,235.0,1000,,,,,,1336
+Beverages,Amulya Dairy Whitener ,38000,2,4,37200,1000,False,1,372.0,380.0,1000,,,,,,1337
+Beverages,Laughing Cow Cheese 8 Portion 120Gm Imported,11000,0,6,11000,120,False,120,110.0,110.0,120,,,,,,1338
+Beverages,The Whole Truth Peanut Butter - Sweetened & Crunchy,21500,20,6,17200,325,False,325,172.0,215.0,325,,,,,,1339
+Beverages,Go Processed Cheese Block,12500,4,6,11900,200,False,200,119.0,125.0,200,,,,,,1340
+Beverages,Go Cheese Processed Block,24900,4,6,23700,400,False,400,237.0,249.0,400,,,,,,1341
+Beverages,RRO Goat Milk Fetta Cheee,34500,31,6,23700,100,False,100,237.0,345.0,100,,,,,,1342
+Beverages,RRO Mascarpone Cheese,35500,50,6,17700,200,False,200,177.0,355.0,200,,,,,,1343
+Beverages,D'lecta Cheddar Cheese,19900,5,6,18900,200,False,200,189.0,199.0,200,,,,,,1344
+Beverages,Funfoods Peanut Butter Creamy,16900,0,1,16900,400,False,400,169.0,169.0,400,,,,,,1345
+Beverages,Pantai Coconut Milk,15000,0,4,15000,400,False,400,150.0,150.0,400,,,,,,1346
+Beverages,Dlecta Cheese Block,14500,0,6,14500,200,False,200,145.0,145.0,200,,,,,,1347
+Beverages,President Butter - Salted,5400,0,6,5400,100,False,100,54.0,54.0,100,,,,,,1348
+Beverages,The Laughing Cow Plain Processed Cheese Block,15000,0,6,15000,200,False,200,150.0,150.0,200,,,,,,1349
+Beverages,Yoga Bar Peanut Butter Dark Chocolate Jar,24900,0,4,24900,400,False,400,249.0,249.0,400,,,,,,1350
+Beverages,The Laughing Cow Cheese Spread Plain,11000,0,6,11000,180,False,180,110.0,110.0,180,,,,,,1351
+Beverages,Amul Malai Paneer Fresh ,7600,3,0,7300,200,True,200,73.0,76.0,200,,,,,,1352
+Beverages,Amul Taaza Toned Homogenised Milk,6600,3,0,6400,1000,True,1,64.0,66.0,1000,,,,,,1353
+Beverages,Amul Fresh Cream,6300,0,0,6300,250,True,250,63.0,63.0,250,,,,,,1354
+Beverages,Amul Lactose Free Milk,2500,4,0,2400,250,True,250,24.0,25.0,250,,,,,,1355
+Beverages,The Bake Shop Whole Wheat Bread,4000,0,0,4000,400,True,400,40.0,40.0,400,,,,,,1356
+Beverages,Amul Slim Trim Skimmed Milk,7500,0,0,7500,1000,True,1,75.0,75.0,1000,,,,,,1357
+Beverages,Amul Cheese Slices,7100,1,0,7000,100,True,100,70.0,71.0,100,,,,,,1358
+Beverages,Amul Pizza Cheese - Mozzarella,10000,1,0,9900,200,True,200,99.0,100.0,200,,,,,,1359
+Beverages,The Bake Shop Pizza Base Whole Wheat,3000,0,0,3000,150,True,150,30.0,30.0,150,,,,,,1360
+Beverages,Nestle A+ Slim Dahi - Low Fat,7800,3,0,7500,400,True,400,75.0,78.0,400,,,,,,1361
+Beverages,Britannia Cheese Garlic Bread,3500,0,0,3500,300,True,300,35.0,35.0,300,,,,,,1362
+Beverages,The Bake Shop Whole Wheat Ladi Pav,4000,0,0,4000,200,True,200,40.0,40.0,200,,,,,,1363
+Beverages,Amul Cheese Spread Yummy Plain,8500,0,0,8500,200,True,200,85.0,85.0,200,,,,,,1364
+Beverages,Britannia Atta Kulcha,3000,0,0,3000,250,True,250,30.0,30.0,250,,,,,,1365
+Beverages,Suguna Nourish Egg,6200,0,0,6200,696,True,12,62.0,62.0,696,,,,,,1366
+Beverages,The Bake Shop Multi Grain Bread,6500,0,0,6500,400,True,400,65.0,65.0,400,,,,,,1367
+Beverages,Nestle A+ Slim Milk,8900,0,0,8900,1000,True,1,89.0,89.0,1000,,,,,,1368
+Beverages,Go Cheese Pizza Blend Mozzarella + Cheddar,12500,5,0,11800,200,True,200,118.0,125.0,200,,,,,,1369
+Beverages,The Whole Truth Peanut Butter - Unsweetened & Crunchy,18500,20,0,14800,325,True,325,148.0,185.0,325,,,,,,1370
+Beverages,Amul Cheese Spread Spicy Garlic,8500,3,0,8200,200,True,200,82.0,85.0,200,,,,,,1371
+Beverages,The Bake Shop Burger Buns,2000,0,0,2000,100,True,100,20.0,20.0,100,,,,,,1372
+Beverages,D'lecta Shredded Mozzarella Cheese,10000,5,0,9500,140,True,140,95.0,100.0,140,,,,,,1373
+Beverages,Britannia Burger Bun with Sesame Seed,3000,0,0,3000,200,True,200,30.0,30.0,200,,,,,,1374
+Beverages,Suguna Vitamin D Egg,7500,17,0,6200,348,True,6,62.0,75.0,348,,,,,,1375
+Beverages,Pillsbury Pancake Mix - Funfetti,9900,11,0,8800,162,True,162,88.0,99.0,162,,,,,,1376
+Beverages,Prabhat Malai Paneer Pouch,8000,0,0,8000,200,True,200,80.0,80.0,200,,,,,,1377
+Beverages,Suguna Nourish Egg ,7200,16,0,6000,348,True,6,60.0,72.0,348,,,,,,1378
+Beverages,RRO Mozzarella Block Cheese,29500,50,0,14700,200,True,200,147.0,295.0,200,,,,,,1379

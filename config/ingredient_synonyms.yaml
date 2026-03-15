@@ -1,0 +1,4602 @@
+# Map ingredient aliases to a canonical name so duplicates merge to one cart line.
+# Keys: canonical name. Values: list of aliases (Indian/regional names).
+
+achari masala:
+- achi
+achari mayo:
+- अचारी मेयो
+acorn squash: []
+adobo sauce: []
+agar agar:
+- agar-agar
+- ganji
+- agar
+agave nectar:
+- agave
+agave syrup: []
+ajwain:
+- carom seeds
+- om seeds
+alfalfa powder: []
+alfalfa sprouts:
+- aloof
+alfredo sauce:
+- alfredo pasta sauce
+alkanet root:
+- ratan jot
+- bij kanuka
+alkanet root oil:
+- ratan jot
+alkannet oil:
+- ratan jot oil
+almond:
+- imtali
+- badam
+- fag
+almond butter: []
+almond essence:
+- badam ka nasha
+- badam essence
+almond meal:
+- badam powder
+- badam flour
+almond milk:
+- badam ka dood
+- बादाम का दूध (baadam ka doodh)
+- coconut milk
+- arandi ka doodh
+- fagun ka doodh
+- vegan milk
+- badam ka doodh
+- badam milk
+- gau milk
+- dairy milk
+- பாதாம் दूध
+almond oil:
+- badam oil
+almond powder:
+- badam powder
+- hazelnuts
+almond soak water:
+- badam ka pani
+almond, pistachio:
+- badam
+- pista
+almonds:
+- almond
+- fana
+- bhujia
+- badam
+- bdam
+- pistachios
+- mixed nuts
+- पिस्ता (pista)
+- काजू (kaju)
+- imtia
+- makhan
+- बादाम (badam)
+- imtala
+- बादाम
+- walnuts
+- badam paste
+- smoked almonds
+almonds and macadamia nuts:
+- badam (almond) macadamia nuts
+almonds, walnuts:
+- badam
+- kaju
+aloe vera:
+- giloi
+- aloo bukhara
+aloo bhujia: []
+aloo samosa:
+- aloo samos
+alphanso mango:
+- mango
+- alphanso
+amaranth:
+- rajgira
+- ragi
+amaranth leaves:
+- manathakkali keerai
+- amanth leaves
+- chaywan leaf
+- jua bhaji
+- palak
+- chaulai
+amaranth seeds:
+- sabza
+- barphi
+amchoor powder:
+- dry mango powder
+amchur:
+- mlaibamchur
+- laal amchur
+- imli powder
+- imli
+- dried mango powder
+- dry mango powder
+- dried green mangoes easily available indian stores
+- kokum
+amchur powder:
+- imli powder
+amla:
+- gooseberry
+- gulmohar
+- nellikai
+- amalaki
+- gosberri
+amul: []
+anardana:
+- draksha amli
+- pomegranate seeds
+- pomegranate seed powder
+anardana powder:
+- pomegranate seed powder
+- anardana
+- mitha mirch
+anise seed:
+- elaichi
+- javitri
+apamarga:
+- albuquera
+- indian plums
+apple:
+- sebu
+- sepu
+- सेब
+apple cider vinegar: []
+apple juice: []
+apple julienne: []
+apple, chickoo:
+- sepu
+- chop
+apples:
+- sepsi
+- fruit
+- sepu
+- sapo
+- sebu
+apricots:
+- amrood
+- laal khajur
+- khajur
+- khas khajur
+arabic: []
+arabic leaves:
+- kulfooli
+arbi:
+- colocasia root
+arborio rice:
+- arylbio rice
+arhar dal:
+- raso masoor
+- red gram
+- masoor dal
+arishithipli: []
+arisi thippi:
+- karungili
+arrowroot flour:
+- sago
+- besan
+arrowroot powder:
+- arhar powder
+- arrowroot
+artichokes:
+- ardhi
+arugula:
+- roquette
+- rocket leaves
+asafoetida:
+- rehu
+- hirda
+- hing
+- nehruvati
+- irani hing
+- devdari
+ash gourd:
+- besan
+- सप्तपर्णी (saptaparni)
+- padta
+- कलू (kalu)
+- poosanikai
+- vellai poosanikai
+ash gourd seeds:
+- vellai poosanikai
+asian sea bass:
+- bhetki fish
+asparagus:
+- harbhara
+- ansoa
+- sabzi
+assam tea leaves: []
+aubergine:
+- bhindi
+- brinjal
+- baingan
+- green brinjal
+avocado:
+- bhatt
+- एवोकैडो (avokado)
+- avkat
+- avakado
+avocado skin: []
+avocados:
+- avocado
+avrekalu:
+- avakkai
+azuki beans:
+- raas masoor
+- kidney beans
+baby corn:
+- phool ki bhaji
+- phal be
+- be
+- phool bhindi
+- phutkin
+- kusha
+- phal
+baby potatoes:
+- aloo
+baby spinach:
+- palak
+bacon:
+- smoked bacon
+bagel: []
+baguette:
+- roti
+- khakhra
+bajra batter:
+- bajra dosa
+bajra flour:
+- pearl millet flour
+bajra seeds:
+- elakai seeds
+baked beans:
+- baki beans
+baking powder:
+- eno s salt
+- vani ka pani
+- candi ke pakwan
+- fruit salt
+- soda
+baking soda:
+- बेकिंग सोडा (bakīng soda)
+- soda
+- sodanum
+balsamic vinegar:
+- बैसिलिक विनेगर (baaisilik vineegar)
+- balsamik sirka
+bamboo shoots:
+- bamboo bhaja
+- sar jha
+banana:
+- nadru
+- ripe banana
+- kela
+- elaichi banana
+- over ripe banana
+- nendra pazham
+banana flower:
+- vazhaipoo
+- pookal
+- mocha
+banana leaf:
+- bakheet
+- banam leaf
+- banana patta
+banana leaves:
+- पत्ते банана
+- وراق الموز
+banana skin: []
+banana stem:
+- kakra
+- vallarai milk
+- kela ka pata
+- nalla poosa
+- chakkuli
+- banana pithu
+- kela beej
+banana stem skin:
+- kakra
+bananas:
+- केला
+- kela
+- kamranga
+- banna
+- mee
+- kafal
+- overripe bananas
+bangala fish:
+- bangada fish
+barbeque masala: []
+barbeque sauce:
+- jerk sauce
+barley:
+- jau
+- jau seeds
+barley flour: []
+barnyard millet:
+- bajra
+- kutki
+- bhagar flour
+- jhangora
+basa:
+- tilapia
+basa fish:
+- fish fillets
+- ilish
+- pan fish
+- बासा मछली (basa machli)
+basa fish fillet: []
+basella:
+- vellulli
+basil:
+- dhania tulsi
+- pudina
+- hari dhaniya
+- तहल (tehal)
+- hari tulsi
+- oregano
+- holy basil
+- tulsi
+- धनिया (dhania)
+basil leaves:
+- basil
+- hari tulsi
+- hari dhaniya
+- pudina leaves
+- tulsi
+- tulsi leaves
+- pudina patta
+basil pesto:
+- hari pesto
+basil, oregano:
+- hari dhaniya
+- oregano
+basmati rice:
+- basmati
+- khusali rice
+- pusa basmati
+- buhara chawal
+- kusa
+- basa mati rice
+- govind bhog rice
+- bhaat
+- basa matta
+- gobindo bhog rice
+- gobindobhog rice
+- khus khus
+- fragrant rice
+- white rice
+- gobindo bhog
+basmati rice water:
+- basmati rice spiced water
+- rice water
+bathua: []
+batter:
+- besan batter
+- vatika
+batua: []
+bay leaf:
+- tej patta
+- tejpata
+- tej pal
+bay leaves:
+- tej patta
+- tej leaf
+bean paste:
+- dal ka paste
+bean sprouts:
+- matar
+beans:
+- rajma
+- matar
+- kidney beans
+- chawli
+beef: []
+beetroot:
+- gulga
+- guler
+- gul galbi
+- mooli
+beetroot juice:
+- goṭ ka chashni
+- beeturoot juice
+beets:
+- gulhar
+bell pepper:
+- capsicum
+- shimla mirch
+- lal mirch
+- bhindi
+- hari mirch
+bell peppers:
+- capsicum
+- mirch
+ber stems: []
+besan:
+- gram flour
+- handwa flour
+- chickpea flour
+besan flour:
+- besan
+- salt
+betel leaves:
+- paan
+- vetrilai
+betel nut:
+- supari
+- paan supari
+bhaja masala:
+- bhajan masala
+bhang paste:
+- bhang
+bhetki:
+- barramundi
+- fish fillet
+bhetki fish:
+- bhut ke mahi
+bhindi:
+- lady's finger okra
+- okra
+- phali
+- phalak
+bilimbi:
+- vibhooti
+- bibalu
+bird's eye chili:
+- thai chili
+- mirch
+biryani masala: []
+biscuit: []
+biscuits:
+- khakras
+- digestive biscuits
+- multigrain biscuits
+- bikere
+bisi bele bhaat spice mix: []
+bitter gourd:
+- karela
+- pavakkai
+- parwal
+bitter gourd seeds:
+- karela seeds
+- pavakkai seeds
+black beans:
+- black urad dal
+- nil
+- lobia
+- kala urad
+- black bhurji
+black cardamom:
+- badi elaichi
+- bhakarwadi
+- badi
+- kafnn
+- vadi
+black cumin:
+- kala jeera
+black currant ice: []
+black eyed beans:
+- lobiya
+- lobia
+black gram:
+- urd dal
+- kali urad dal
+- udad dal
+black grapes juice:
+- black grape juice
+black olives: []
+black pepper:
+- jeera
+- kali mirch
+- laksha mirch
+- pepper
+- kaala mirch
+- lal mirch
+- काली मिर्च
+- black pepper powder
+- kaalu mirch
+- mirch
+- kala mirch
+- hari mirch
+black pepper powder:
+- kaliji garam
+- cheesu flower pepper
+black peppercorns:
+- jeera
+- kali mirch
+- dhania
+black raisins:
+- kishmish
+black rice:
+- kala chawal
+black salt:
+- white salt
+- kala namak
+black sesame seeds:
+- bhuru
+- kali til
+- kala til
+black soybeans:
+- kali urad
+black tea:
+- cha
+black urad dal:
+- kulu urad dal
+- urd dal
+- urad dal
+- kali urad
+blackberries:
+- amrood
+blueberries:
+- aamkhumb
+- anjaar
+blueberry jam: []
+bocconcini cheese: []
+boiled chicken:
+- dum chicken
+boiled peanuts:
+- chana
+bok choy: []
+boneless chicken:
+- murga
+- murgh
+boondi:
+- sweet boondi
+- kara boondi
+- balushahi
+boondi masala: []
+boondi sev: []
+botia:
+- golden fried flakes
+bottle gourd:
+- laukhi
+- tinda
+- lauki
+- singhara
+bourbon: []
+bourbon biscuits:
+- hide seek biscuits
+brahmi: []
+brandy: []
+bread:
+- roti
+- leekar
+- naan
+bread crumbs:
+- besan khabar
+- mattha
+bread flour: []
+breadcrumbs:
+- garam masala
+- oats
+- loomi
+- wheat bread crumbs
+- roti ke khane
+- rusk
+- atta bhat
+- roshni
+brie cheese:
+- ब्रీ चीज़ (bree cheez)
+brinjal:
+- baingan
+- karela
+- sundakkai
+- बैंगन
+- vagu
+- bhindi
+- eggplant
+- baingani
+brinjal stalks:
+- baingan stalks
+britannia: []
+britannia biscuits:
+- britannia
+broad beans:
+- avadakalu
+- faba beans
+- pithe
+- avarekai
+- val poli
+broccoli:
+- fagga
+- phoolgobhi
+- phool gobhi
+- phool kohri
+broccoli florets:
+- ब्रोकली
+- smer florets
+- broccoli
+brown bread:
+- brown roti
+- white roti
+- ब्राउन ब्रेड
+- atta roti
+- makki roti
+- makki di roti
+brown bread baguette:
+- brown bread
+brown chickpeas:
+- kala chana
+- rajma
+brown rice:
+- braun rice
+- chawal
+brown rice flakes:
+- chawal ke bhat
+- brown rice
+brown sugar:
+- nolen gur
+- palm sugar
+- demerara sugar
+- icing sugar
+- gur
+- rakhta sugar
+- rawalpuri sugar
+- brown shakkar
+- rakta shakar
+brussel sprouts:
+- musli
+buckwheat flour:
+- kuttu ka atta
+- kuttu ka dalia
+- kuttu flour
+bud: []
+bulgur wheat:
+- dahi atta
+buns: []
+burger buns:
+- masala buns
+butter:
+- unsalted butter
+- vandhan
+- gosht ka ghee
+- ghisari
+- salted butter
+- malai
+- ghani
+- ghi
+- makhan
+- sarson oil
+- olive oil
+- ghee
+- butter sizzling
+- gosht ghee
+- desi ghee
+- gosht
+- tel
+- goshtri
+- garlic butter
+butter oil:
+- tel ghee
+butter or vegetable oil:
+- butter ( canola vegetable oil)
+- Refined Sunflower Oil
+buttermilk:
+- curd
+- chhaak dahi
+- dahi
+- kokum
+- chaun
+- amsul
+butternut squash:
+- shimla mirch
+- kalabira
+butterscotch chips: []
+butterscotch ice: []
+button mushrooms:
+- shankhapush
+- phutane
+- kammergun
+- champignon
+- kamachi
+- mushrooms
+- portobello mushroom
+- portabella mushrooms
+- crimini mushrooms
+- brown button mushrooms
+- kaju bhaji
+cabbage:
+- kauru
+- bhaji
+- muttai koose
+- patta gongura
+- buttaikose
+- sabzi
+- gobi
+- patta gobhi
+- patta gobi
+cabbage leaves:
+- patta gobi
+cajun spice mix:
+- chutney podi
+cake mix:
+- cake powder
+camphor:
+- pacha karpooram
+candied orange:
+- badam ka narangi
+canned beans:
+- कैन में बीन्स
+canned corn kernels:
+- matar
+canned tomatoes: []
+canned tuna:
+- tuna
+canola oil:
+- sarson ka tel
+- tel
+- sarson oil
+cape gooseberries:
+- amla
+- gulab jamun
+capers:
+- aloo bhindi
+capsicum:
+- lal bhindi
+- bhaji
+- pelli shukla
+- bhajiya
+- bhindi
+- hari shukla
+- pellikulu
+- lal shukla
+caramel sauce: []
+cardamom:
+- badi elaichi
+- elichi
+- इलायची (elaiichi)
+- cardamom skin
+- large cardamom crush
+- इलायची
+- cardamom seeds
+- cardamom pods
+- javitri
+- кардамон (kardamon)
+- elaichi
+- ilachi
+- chattame
+- javitri powder
+- cardamom crush
+cardamom pods:
+- elaichi
+- chhoti इलायची
+cardamom powder:
+- elaichi powder
+carom seeds:
+- jeera
+- rai
+- awanake
+- ajwain
+- seeds
+- omam
+- shahi jeera
+carp: []
+carrot:
+- shutaki
+- गाजर (gaajar)
+- gware
+- beans
+- peas
+- gora murabba
+- gajjar
+- mutta
+- karota
+- gajar
+- gajod
+- गाजर (gajar)
+carrot cake: []
+carrots:
+- gheber
+- gajar
+cashew:
+- kaju
+- badam
+- bhujia
+cashew nuts:
+- bhujia
+- kaju
+- badam
+- tender s
+cashew paste:
+- fasaad
+- kaju paste
+cashew peanuts:
+- kaju peanuts
+cashews:
+- fasaid
+- phutane
+- bhujia
+- ground cashews
+- kaju
+- peanuts
+- fanjeera
+- kaduku
+- badam
+- khajur
+- خاسু बादाम (khasu badam)
+caster sugar:
+- sugar
+- chashni
+- channi
+- gur
+catla:
+- bhakur
+- catla fish
+cauliflower:
+- gobhi
+- phool gobi
+- phool gobhi
+- gobi
+- gubbaki
+cauliflower leaves:
+- gobhi ke phool
+cawanprash: []
+cayenne pepper: []
+celery:
+- retai
+- sabzi
+- shaal gee
+- hareethakkalu
+- hareeth
+- hira dhani
+celery stock:
+- hareethakkalu ka naya
+chaat masala:
+- masala chaat
+- chaat masala powder
+chai masala:
+- चाय मसाला (chaai masaalaa)
+chakra flowers:
+- chakra phool
+chamomile tea:
+- manjistha ka chhaav
+chana dal:
+- split chickpeas
+- besan
+- split bengal gram dal
+- bengal gram dal
+- chana
+- chiriya dal
+chana lentils:
+- chana dal
+- ramdopal
+chana masala powder:
+- chana masala
+chandi'work eater: []
+char masala: []
+charcoal:
+- angastha
+- कोयला
+- dum coal
+charcoal smoke: []
+chayote:
+- tarkari
+chayote squash:
+- karela
+- chow chow
+cheddar cheese:
+- processed cheese
+- paneer
+- cheddar
+cheese:
+- cottage cheese
+- besan
+- paneer
+- cheddar
+- petha
+- processed cheese
+- peder
+- cheddar parmesan
+- mexicano cheese
+- pata sabzi
+- piyaaz
+- gruyere
+- mexican cheese
+- britannia cheese
+- cheeni
+cheese block:
+- britannia cheese
+cheese cubes: []
+cheese flavored: []
+cheese frosting: []
+cheese pepper: []
+cheetos: []
+chenna:
+- cottage cheese
+cherries:
+- ālū
+- imli
+- anjaar
+- anar
+- amrood
+cherries and strawberries:
+- cherries strawberries
+cherry compote: []
+cherry preserve jam: []
+cherry tomato:
+- rambhara
+- badi mirch
+- rami
+- ruab
+cherry tomatoes:
+- tamatar
+chia seeds:
+- tila
+- sizoo
+- flax seeds
+chicken:
+- murga
+- murghi
+chicken breast:
+- murghi
+- murga
+- murghi chest
+- chicken
+- murga ka chest
+- murgh
+chicken breasts:
+- murghi cubes
+- murghi
+- machchhe
+- murgh
+chicken broth: []
+chicken drumstick:
+- murga ka tukda
+chicken drumsticks:
+- murga
+chicken legs: []
+chicken masala:
+- murgh masala
+- kerala chicken masala
+chicken mince: []
+chicken sausage: []
+chicken stock:
+- murga nu shaani
+chicken substitute:
+- soy nuggets
+chicken thigh:
+- murga
+- chicken
+- murga thigh
+chicken thighs:
+- chicken
+- murga gosht
+- murgh
+chicken tikka:
+- hariyali chicken
+chicken wings:
+- चिकन विंग्स
+chickpea:
+- chana
+chickpea dal:
+- split chickpeas
+- besan
+- chana dal
+chickpea lentils:
+- chana dal
+chickpea sprouts:
+- chana sprouts
+chickpea stock:
+- chana stock
+- chana water
+chickpeas:
+- kala chana
+- besan
+- chana sprouts
+- kabuli chana
+- hara chana
+- kadala
+- chana
+- chana dal
+- brown chickpeas
+- arhar dal
+chifferi rigati pasta:
+- del monte pasta
+chikki:
+- pak
+chili:
+- lal chilli
+- mirch
+- hari chilli
+- hari mirch
+chili garlic sauce:
+- mirch garlic paste
+chili vinegar:
+- hari mirch ka achar
+chili water:
+- lal mirch ka pani
+chilli:
+- mirch
+- hari mirch
+- lal mirch
+chilli flakes:
+- kashmiri chilli
+- hari mirch powder
+- hari mirch
+chilli oil:
+- mirch oil
+- til oil
+- sesame oil
+chilli powder:
+- lal mirch powder
+- byadagi mirch
+- hari mirch powder
+- mirch powder
+chilli sauce:
+- तेल (tel)
+- लाल मिर्च सॉस (laal mirch saas)
+- imli chilli sauce
+- tomatillo chilli sauce
+chilli vinegar:
+- hari mirch vinegar
+chillies:
+- dry red chilli flakes
+- red chillies
+- lal mirch
+- lal mirch ka atta
+- mirch
+- green chillies
+- hari mirch
+chinese cabbage: []
+chipotle chillies:
+- chipotle mirch
+chipotle peppers: []
+chipotle sauce: []
+chironji:
+- चुनभड़ा (chhunbhadha)
+chivda:
+- sev puri mixture
+chives:
+- hir
+- gai chatti
+choco thins: []
+chocolate:
+- kaju barfi
+- moti choco
+- bhangwa
+chocolate bar:
+- melbar
+- dark chocolate
+chocolate cake: []
+chocolate candies: []
+chocolate chips:
+- white chocolate chips
+- dark chocolate chips
+- badam chocolate chips
+chocolate ganache:
+- chocolatte ganash
+- chocolat ganache
+chocolate pearls:
+- chikki
+chocolate sauce: []
+chocolate shavings: []
+chocolate wafer biscuits:
+- coffee wafers
+- koffee wafers
+chocolate wafers:
+- bournvita biscuits
+chow chow:
+- tamarind chutney
+ciabatta bread:
+- ciabatta
+- bread
+cilantro:
+- coriander
+cinnamon:
+- dalchini
+- cinammon
+- elaichi
+- jessmon
+cinnamon powder:
+- dalchini
+- elaichi powder
+- dalchini powder
+cinnamon stick:
+- dalchini
+citric acid:
+- limeti
+clamps: []
+clams: []
+clove:
+- lavang
+cloves:
+- laung
+- cloves (laung) ground
+cloves powder:
+- laung powder
+club soda:
+- sprite
+- ginger ale
+cluster beans:
+- gawar
+- gawar phali
+- kothavarangai
+coal: []
+coca cola: []
+cocoa powder:
+- kakao
+- kakra
+- kaka
+coconut:
+- theeram aval
+- theeram
+- nariyal
+- tumbari
+- ताड़ का फल (taad ka phal)
+- kopra
+- dry coconut
+- nannachi
+- thambool
+- nadar coconut
+- nannachi aval
+- nua
+- thaan
+coconut butter:
+- narail ghee
+coconut flakes:
+- nariyal phool
+coconut flour: []
+coconut meat:
+- phal
+coconut milk:
+- thaal
+- toddy
+- thandai milk
+- ताड़ का दूध (taad kaa doodh)
+- nariyal ka doodh
+- nareli pak
+- নারকেল দুধ
+- nannachi aval
+- phal
+- thala
+- narail lait
+- narali tail
+coconut oil:
+- cold pressed coconut oil
+- thandai oil
+- nariel oleil
+- nariel tel
+- noraichi
+- refined oil
+- nariyal tel
+- nariel oil
+- nora chebaniya
+- sunflower oil
+- nariel tail
+- tila tail
+- tilon
+- regular oil
+coconut paste:
+- nariyal paste
+coconut pulp:
+- payas
+coconut shell:
+- नारियल खोल (narial khol)
+coconut sugar:
+- nariel shakkar
+- jaggery
+- gur
+coconut water:
+- tody
+- phal ka pani
+- nariali ka doodh
+coconut yogurt:
+- coconut curd
+- nariyal dahi
+coffee:
+- kafi
+coffee beans:
+- gahwa beans
+coffee decoction:
+- coffee brew
+- koffee ka nare
+coffee powder:
+- kaffa
+- kaffa powder
+cold water:
+- so gaya pani
+collard greens:
+- palak
+colocasia leaves:
+- colocasia
+- kankura
+- arbi
+- elephant ear leaves
+colocasia root:
+- arbi
+conchiglie pasta:
+- shells pasta
+condensed milk:
+- phal ka doodh
+- phalpatti
+- phalpaani
+cookies:
+- vanilla cookies
+cooking oil:
+- tel
+- sunflower oil
+- sarson oil
+coriander:
+- jeera
+- dhania leaves
+- dhaniya patta
+- kali jeera
+- coriander leaves
+- dhania
+- hari jeera
+- pudina
+- hari dhaniya
+- chakra phool
+- oregano
+- hara dhania
+- dhaniya
+- hara jeera
+- parsley
+- lemon juice
+- hara dhaniya
+- cilantro
+coriander leaf:
+- dhania
+- hari dhaniya
+coriander leaves:
+- dhania leaves
+- dhania
+- dhaniya patti
+- pudina
+- hari dhaniya
+- pudina leaves
+- hara dhania
+- dhania patta
+- dhaniya
+- pudina leaf
+- coriander
+- hara dhaniya
+- cilantro
+coriander mint chutney:
+- coriander leaves
+- dhania mint chutney
+- hari chutney
+- धनिया पुदीना चटनी
+- hara chutney
+- coriander
+- mint
+coriander oil:
+- dhania tail
+- til ka tail
+- hari jeera oil
+coriander powder:
+- hari dhaniya
+- dhaniya powder
+- dhaniya
+- hara jeera
+- dhania powder
+- rosemary powder
+coriander salt:
+- hari dhania garam masala
+coriander seeds:
+- jeera
+- dhania
+- hari mirch
+corn:
+- makai
+- makhan kaande
+corn chips:
+- papri
+corn cob: []
+corn flakes:
+- कॉर्न फ्लेक्स (corn flakes)
+corn flour:
+- besan
+- maize flour
+- makhan ka aata
+- maida
+- cornmeal
+- makki ka aata
+corn flour tortilla:
+- corn tortilla
+corn kernels:
+- makai
+- maisa
+- makhana
+- makhan
+corn syrup: []
+corn tortilla:
+- chapati
+- makki roti
+corn tortillas:
+- maza
+cornflour:
+- corn flour
+- maida
+- maisu
+- sevi
+cornmeal:
+- kodo aata
+- maize meal
+- maize flour
+- makki dalia
+- rava
+- maida
+- masoor
+cornmeal flour:
+- makki ka atta
+cottage cheese:
+- paneer
+cotton thread: []
+cotton threads: []
+couscous:
+- israeli couscous
+cowpea: []
+cowpeas:
+- chawli
+- lobia
+crab:
+- machli
+crab meat: []
+crabs:
+- khotey
+crackers:
+- salty crackers
+cranberries:
+- gooseberries
+cranberry juice: []
+crema mexicana: []
+crepes: []
+croutons:
+- roti ke kaba
+crushed pepper:
+- phool mirch
+crusty bread: []
+cucumber:
+- bhutni
+- kaddu
+- kharbuza
+- ghazal
+- kharboza
+- ghibani
+- tamatar
+- खीरा (kheera)
+- ताज़ा खीरा (taaza kheera)
+- phal
+- khedda
+- bhut bheja
+cucumbers: []
+cumin:
+- jeera
+- dried cumin
+- divya
+- зира
+- royalty jeera
+- kali jeera
+- haldi
+- mirchi
+cumin powder:
+- jeera
+- chaat masala
+- mexican cumin
+- powdered cumin
+- jeera powder
+- cumin
+- dana jeera
+cumin seeds:
+- jeera
+- hirda
+- cumin
+- madanasa
+curd:
+- hung yogurt
+- yogurt
+- malai curd
+- dahi
+- smooth texture
+- chhaakda
+curd oil:
+- malai ghee
+curd vada: []
+curd water:
+- maas ka pani
+- yogurt water
+curd, milk:
+- dahi
+- mait
+curry leaf:
+- kadi patta
+curry leaves:
+- karivepaku
+- kadhi patta
+- आसफ़ोtida (asafotida)
+- nagaiche patta
+- karie patta
+- vendakkai marundham
+- ಕರಿಬೇವಿನ पत्ते (karivil patte)
+- errai patta
+- hari mirchi
+- kari patta
+- kadi patta
+curry powder:
+- sri lankan curry powder
+- garam masala
+- kadhi masala
+- garam masala powder
+- mirchi powder
+- garam
+custard: []
+custard apple:
+- sitaphal
+custard powder:
+- phal pani powder
+- vanilla powder
+- noor chini
+- pista powder
+dairy-free chocolate: []
+dal:
+- pottukadalai
+- toor dal
+dal stock water:
+- chana dal water
+dark chocolate:
+- moti choco
+- kakaobutter
+- melts
+- kaju barfi
+- kaalaabd
+- kasundi
+- kaka jada
+- kakaobatra
+- milk chocolate
+- valrhona couverture
+- kakoori
+- kali dhoya
+- kaju barfi chocolate
+- kali shak
+dark chocolate chips:
+- semisweet dark chocolate
+dark corn syrup:
+- gur
+dark rum: []
+date syrup:
+- गुलाब जामुन मीठा (gulab jamun mitha)
+- gur
+- vatraar pani
+date tamarind chutney:
+- madhur chutney
+- tamatar arhar chutney
+dates:
+- nawab
+- baraz
+- amrooti
+- khajoor
+- khajur
+dates paste:
+- dates filling
+dates powder:
+- kharik pud
+desiccated coconut:
+- shredded coconut
+dhokla:
+- khaman
+digestive biscuit: []
+digestive biscuits:
+- marie biscuits
+dijon mustard:
+- aloo amili
+dill:
+- dhania leaves
+dog bread:
+- khakhra
+dosa rice:
+- dosa atta
+double beans:
+- fidai bhaji
+double cream: []
+dough: []
+dragon fruit:
+- pitaya
+dragon fruit pulp:
+- palam
+- kamini phali pulp
+dried basil:
+- hari tulsi
+dried cherries: []
+dried chillies:
+- byadagi chillies
+dried cranberries: []
+dried fenugreek leaves:
+- kasuri methi
+- methi
+dried figs:
+- khas khas
+- phirni
+- gajri
+dried fruits:
+- apricot
+- kaju
+- badam
+- khushbu dry fruits
+- kishmish
+dried green chillies:
+- milagai chillies
+- milagai
+- hari mirch
+dried herbs:
+- dried coriander
+- jeera
+- masala
+dried leaves:
+- tulsi leaves
+- thulasi
+dried mint leaves:
+- सु dried पुदीना
+dried oregano:
+- oregano
+dried parsley: []
+dried peas:
+- vatana
+dried raspberries:
+- anar phali
+dried red chili:
+- lal mirch
+dried rose:
+- gulab
+dried rosemary: []
+dried shrimps:
+- supari
+- shiroli
+drumstick:
+- param
+- murgadana
+- pak dora
+- sag pithe
+- kaambar
+- chakwei
+drumstick leaves:
+- moringamurungai
+- sag leaf
+- muringamurungai
+- keerai
+drumsticks:
+- muringai
+- swang
+dry coconut:
+- coconut flakes
+- kopra
+- nuc post
+- nucpost
+dry coconut flakes:
+- kopra
+- shredded coconut
+dry fruits:
+- badam, kaju, pista
+- kaju
+- ilish
+- almonds
+- cashews
+- silver dry fruits
+- badam
+- kishmish
+- khushboo phool
+dry ginger powder:
+- sonchafa
+- aakar ka powder
+- sonth
+- sudha jeera
+- yellu powder
+- lavang powder
+- sonchafa powder
+dry mango powder:
+- amchur
+dry red chilli:
+- lal mirch
+- hari mirch
+dry yeast:
+- kacchi lassi
+dulce de leche: []
+ed: []
+edible flowers: []
+edible silver leaf:
+- chandi ka vark
+- varak
+egg: []
+egg noodles:
+- dum aalu noodles
+egg replacer:
+- flax eggs
+eggplant:
+- baingan
+- baingan bhaji
+- bhindi
+- vagu
+- beengan
+- brinjal
+eggs:
+- andaz
+- dahi
+- amurta
+- pak
+- chicken eggs
+- dalia
+- water
+- dum
+- ambya
+- pakka
+- dairy
+- milk
+- egg glazing
+- phal
+- aloo omelette
+- anda
+- andle
+- अंडे (ande)
+- flax eggs
+eggs and milk: []
+elbow pasta:
+- khorak
+elephant yam:
+- shenai
+- kanda bataka
+- suran
+- surusenairatalu
+- suran ennai
+english cucumber:
+- ghazaba
+espresso powder: []
+evaporated milk:
+- maidan
+- dahi
+evaporated sugar:
+- gur
+falsa:
+- phal phalsa
+farfalle pasta: []
+farsan:
+- bhujia
+- mix
+- chivda
+fennel:
+- saunf
+- cumin
+- feinga
+fennel powder:
+- saunf powder
+- saunf
+fennel seeds:
+- जीरा
+- saunf
+- सौंफ
+fenugreek:
+- methi ka atta
+- jeera pod
+- methi
+fenugreek leaves:
+- kasuri methi
+- methi leaves
+- methi
+fenugreek seeds:
+- jeera
+- ground fenugreek seeds
+- hari jeera
+- methi seeds
+- jira
+- methi
+- haldi jeera
+feta cheese:
+- cottage cheese
+- feta
+- fassola
+fettuccine pasta:
+- sewpie
+fig:
+- gular
+figs:
+- pipal
+- khas khas
+- bhui amrood
+- khusht-khus
+- khus khus
+- khajur
+filter coffee powder:
+- filter coffee
+fish:
+- मछली
+- machli
+- machchli
+- maach
+- makhi
+- ilish
+- pompano
+- meen
+fish cutlets: []
+fish fillet:
+- machli
+- sol fish
+fish masala:
+- meen masala
+fish sauce:
+- machli ka amrit
+- anchovy sauce
+- amchur
+- nam pla
+- anchal
+flatbread:
+- roti
+- naan
+- chapati
+flavor:
+- ras
+- tadka
+flax eggs:
+- अलसी का घोल (alsee ka ghol)
+- linseed eggs
+flax seeds:
+- अलसी (alsee)
+- rattan joo
+flaxseed egg:
+- eggs replacer
+flaxseed egg replacer:
+- linseed egg replacement
+flaxseed meal:
+- flaxseed
+- flaxmeal
+- aloo
+- flax meal
+flour:
+- besan
+- refined oil
+- maida
+- cardamom
+- cloves
+- atta
+- baking soda
+- ghee
+- cake flour
+flowers:
+- kamatche
+food color:
+- rang jhola
+- rang
+food color green: []
+food color yellow: []
+food colour:
+- gulal
+- rang
+fox nuts:
+- makhan
+- makhana
+foxtail millet:
+- dalia
+- kangna
+- jisani
+- kodo millet
+- kangni
+foxtail millet flour: []
+foxtail millet vermicelli:
+- जऊvermicelli (jaa vermicelli)
+french bread:
+- roti
+- naan
+- baguette
+french bread rolls:
+- khakhra rolls
+- garam rolls
+french fries:
+- aloo fry
+fresno pepper: []
+fruit:
+- phool
+- falsa
+- fal
+fruit salt:
+- enos fruit salt
+- eno s
+- eno s salt
+- ino fruit salt
+full fat: []
+fusilli pasta:
+- pasta
+- fusilli
+galangal:
+- adrak
+- kunkuma
+- munga
+- mulethi
+- kanda lingam
+ganache: []
+garam masala:
+- kashmiri garam masala
+- garam masala powder
+- pulao masala
+garlic:
+- laal hari
+- cloves garlic
+- lahsun
+- cloves
+- bhujia garlic
+- pudhina
+- लहसुन
+- lav
+- laung
+- laal mirch
+- lasun
+- lehsun
+- lehsan
+- lehsun paste
+garlic chives:
+- garlic pesni
+garlic chutney:
+- lahsun chutney
+garlic paste:
+- clove garlic
+- lahsun paste
+- lehsun paste
+garlic powder:
+- lehsun powder
+garlic salt: []
+gelatin:
+- agar agar
+- jamarat
+- javari murt
+ghee:
+- nenam
+- ghottam
+- butter
+- khurchan
+- clarified butter
+- oil
+- desi ghee
+- phalakhi
+- ghi
+- vegetable oil
+- sesame oil
+- tel
+- goshtri
+- gooseberry butter
+- ghee flavor
+- घी
+- घी (ghi)
+ghee roti: []
+gherkin:
+- achar
+gherkins:
+- achar bhindi
+ghost chilli peppers:
+- bhut jolokia
+- dhamm holika
+gingelly oil:
+- sesame oil
+- til oil
+- gingelly
+- सरसों का तेल
+ginger:
+- laung zeera
+- sonchafa
+- adrak
+- manga inji
+- ili
+- adrak paste
+- zeera
+- galangal
+- sonchay
+- hari mirch
+ginger ale: []
+ginger garlic paste:
+- adrak garlic paste
+ginger juice:
+- adrak juice
+ginger paste:
+- adrak ka paste
+- adrak paste
+ginger powder:
+- adrak powder
+glaze: []
+glazed cherries:
+- tinned cherries
+glinous oppositifolius: []
+gluten free flour:
+- maida
+- atta
+goat cheese:
+- chhena
+- gatte ki paneer
+goda masala:
+- garam masala
+- god masala
+goji berries:
+- amla
+gond:
+- ghee
+- muru
+- ganesha gum
+- makhan jaggery
+gondhoraj lemon: []
+gondhoraj lemon juice: []
+gongura:
+- लाल रोसेल (laal rosell)
+- गोंगुर (gongura)
+goond:
+- gond
+- avril gum
+gorgonzola cheese: []
+gouda cheese:
+- paneer
+- cheddar
+gourd:
+- phalakhi
+graham cracker crumbs:
+- marie biscuits
+gram flour:
+- moong dal
+- besan
+- chickpea flour
+- chana flour
+- arhar dal
+grand marnier: []
+granola: []
+granola, nuts:
+- badam
+- fanjeera
+grape juice:
+- angur juice
+grapefruit:
+- kamrak
+grapes:
+- angur
+- ulundh
+- uliya
+- amrooti
+great northern beans:
+- chawli dal
+greek yogurt:
+- dahi
+green:
+- saunf
+green amaranth: []
+green amaranth leaves:
+- chaulai patta
+green bean:
+- fansi matar
+- hobpip
+green beans:
+- fansi
+- fansi matar
+- saggina
+- fasuldi
+- french beans
+- baghel
+- bhindi
+- feeni
+- ghia
+- fali
+- shengdaani
+- हरी बीन्स (hari beens)
+- sabziya
+green bell pepper:
+- capsicum
+- bhindi
+- pacha bhindi
+green chili:
+- jalapeno
+- काली मिर्च (kali mirch)
+- bhut jolokia
+- हरी मिर्च (hari mirch)
+- hari chilli
+- hari mirch
+green chilies:
+- hari mirch
+green chilli:
+- hari mirch paste
+- हरी मिर्च
+- lal mirch
+- split green chilli
+- bhut jolokia
+- mirch
+- hari chilli
+- hari chilli paste
+- green chillies
+- hari mirch
+green chilli dal:
+- hari chilli masoor dal
+green chilli paste:
+- hari mirch paste
+green chilli sauce: []
+green chillies:
+- red chillies
+- bhavnagari mirch
+- हरी मिर्च
+- lachha mirch
+- laal mirch
+- हरी मिर्च (hari mirch)
+- aloo mirch
+- hari chilli
+- sorsho
+- hari mirch
+green chutney:
+- hari chutney
+- pudina chutney
+green curry paste: []
+green gram:
+- moong dal
+- moong
+green gram dal:
+- moong dal
+- hari moong dal
+green grapes juice:
+- green grape juice
+green mango:
+- haramphal
+green moong dal:
+- har mod dal
+green olives:
+- हरा जैतून (hraa jaatun)
+green onion:
+- pui bhaji
+- harabhara
+green onion leaves:
+- pyaaz
+green pea:
+- matar
+green peas:
+- mutter
+- vatana
+- chano
+- malakhi
+- मटर
+- matar
+green peas paste:
+- matar paste
+green tea:
+- chai
+ground breadcrumbs:
+- get bread crumbs
+ground cashews:
+- khajur
+- badam
+ground chana dal:
+- chana dal
+- bengal gram dal
+ground green moong dal:
+- green moong dal
+- moong dal
+ground peanuts:
+- peanuts
+- moongphali
+ground urad dal:
+- urad dal
+- moong dal
+groundnut oil:
+- peanuts oil
+groundnut powder:
+- peanuts powder
+- arachi atta
+gruyere cheese:
+- cheddar
+guacamole:
+- avocado
+- achafoot
+guava:
+- amro juice
+- amrooti juice
+- amra
+- amro
+- amrooti
+- amrood
+gulab jamun: []
+gulab jamun mix: []
+gunde:
+- bird lime
+habanero sauce: []
+hakka noodles:
+- al dente noodles
+- haka noodles
+ham: []
+harissa: []
+harissa sauce: []
+hash browns: []
+hazelnut:
+- bhujia
+hazelnut meal:
+- hazelnut powder
+health mix: []
+heart of palm: []
+heavy whipping cream:
+- desi ghee
+herbs:
+- kashmiri spices
+- pudina
+- tulsi
+- masala
+herring: []
+hibiscus leaves: []
+hilsa:
+- ilish
+- hilsa fish
+hilsa fish:
+- hilsa
+- ilish
+- seer fish
+- ilish fish
+hing:
+- asafoetida
+- reelu
+hog plum:
+- phal ghum
+- ambade
+- amtekai
+hoisin sauce: []
+holy basil:
+- tulsi
+- basil
+honey: []
+horlicks: []
+horse: []
+horse gram dal:
+- mooli dal
+- kollu
+- kulith
+- kollu kulith
+- engira dal
+horse gram flour:
+- ghurda flour
+hummus:
+- chana masala
+- tzatziki
+hung curd:
+- curd
+- yogurt
+- dahi
+ice:
+- balam
+- baraf
+ice cream:
+- baniye
+- khushalbali
+ice cubes: []
+ice wine: []
+iceberg lettuce:
+- patta
+- lettuce
+icing sugar:
+- इके की चीनी
+- chheel
+idiyappam: []
+idli:
+- mini idli
+idli dosa batter:
+- idli sambar podi
+- dosa batter
+- idli batter
+idli dosa podi:
+- milagai powder
+idli rice:
+- idli steal
+- irupam
+ilish: []
+india: []
+instant coffee:
+- bru gold
+- instant coffee powder
+instant coffee powder:
+- instant coffee
+instant dosa mix:
+- dosa powder
+instant oats:
+- rolled oats
+- oats
+irish cream: []
+italian: []
+jabi masala:
+- badi masala
+jackfruit:
+- phool
+- kathal
+jackfruit seeds:
+- kathal
+- kathal seeds
+jackfruit skin:
+- kathal ki bomb
+jaggery:
+- karonda
+- shakar pan
+- gur
+- अमला साइज (amla size)
+- ada
+- brown sugar
+- panjiri
+- जग्गर (jagger)
+- gur ka ras
+- ishan
+jaggery churma:
+- churma
+jalapeno:
+- mirch
+jalapenos:
+- capsicum
+- हरी मिर्च
+- mirch
+- bhut mala
+- hari mirch
+jalepeno pepper:
+- capsicum
+- bhindi
+jam:
+- fruit jam
+jam preserves: []
+jamun:
+- amla
+jasmine buds:
+- gulab jamun ke phool
+jasmine rice:
+- champa rice
+jawla fish:
+- manuy
+jeera powder:
+- jal jeera
+jello:
+- gel
+jelly:
+- jam
+jowar:
+- sorghum
+jowar flour:
+- sorghum flour
+- kodo flour
+- bajri flour
+jowar seeds:
+- rajgeera
+- bajra
+- sorghum seeds
+- shalgam beej
+- kodo beej
+- jowar
+kabuli chana:
+- chickpeas
+- chana
+- chana dal
+- white chickpeas
+kachampuli: []
+kachri:
+- bhindi
+kadhi masala: []
+kaffir lime leaves:
+- falam patta
+- basil leaves
+- bael
+- bumbak patta
+kalamata olives: []
+kale:
+- पालक
+- col choy
+kale, spinach, fenugreek:
+- palak, kale, methi
+kalonji seeds:
+- bij
+- til
+- onion nigella
+- bij ka seed
+- nigella seeds
+- bij ka boora
+- nigella
+- nigoda
+- kalonji
+kalpasi:
+- kalpavruksha flower
+kalpasi leaves: []
+kandathipli:
+- kalanjali
+kapok bud:
+- moggu
+karela:
+- bitter gourd
+- pavakkai
+kashmiri chili:
+- kashmiri mirch
+- lal shama
+kashmiri chilli powder:
+- lal mirch powder
+- lal mirch
+kashmiri chillies:
+- byadagi dried chillies
+- red chillies
+- lal mirch
+kashmiri masala: []
+kashmiri red chillies:
+- kashmiri mirch
+kasundi mustard sauce:
+- kasundi
+kasuri methi:
+- coriander leaves
+- dried fenugreek leaves
+- methi
+- dhaniya
+- kasoori methi
+kataifi dough: []
+kebab masala: []
+kebab pepper:
+- kababchini
+kewra: []
+kewra essence:
+- kewra
+- kewra drop
+kewra water: []
+khara sev:
+- red sev
+khichdi pongal: []
+khoya:
+- mawa
+khus khus: []
+khus syrup: []
+khuskhus paste: []
+khuskus:
+- khuskus ke dood
+kidney beans:
+- chole
+- kashmiri rajma
+- rajma
+king fish:
+- ilish
+kinua:
+- nil
+kitkat bars: []
+kiwi:
+- sev
+- kwai
+- nil
+kiwi berries:
+- mango
+knol khol leaves:
+- ganth gobi leaves
+knolled potatoes:
+- alobooch
+knolled potatoes leaves:
+- alobooch ke pattle
+kodo millet:
+- arisi
+- kodo atta
+- varagu
+kohl rabi:
+- arbi
+- rubar
+kokum:
+- garam masala
+- imli
+- lemon
+- tamarind
+- gool
+- amalika
+- malabar tamarind
+kolhapuri masala: []
+kunafa dough:
+- kunafa ke paste
+kunafa pastry:
+- kunafa
+lamb:
+- gosht
+lamb chops: []
+lamb keema:
+- keema
+- minced lamb
+lamb ribs: []
+lamb trotters:
+- lamb galutki
+- lamb keecha
+large green chilli:
+- badi hari mirch
+lasagna sheets:
+- lasagne
+lasun masala:
+- lasun powder
+- garlic masala
+lavender flowers: []
+leaf:
+- patta
+leek:
+- pui
+- pyaaz
+- pyaaz ka phool
+- पیاز (pyaz)
+leeks:
+- piri patta
+lemon:
+- laal amchur
+- laim
+- nimbu
+- limbu
+- laal
+- laimeti
+lemon glaze: []
+lemon grass:
+- lemongrass
+- dhania tulsi
+- tulsi
+- nira
+- jazeera
+- rahar
+lemon juice:
+- nimbu pani
+- nimbu ka charan
+- nimbu ka pani
+- nimbu ka juice
+- nimbu ka ras
+- nimbu juice
+- limbu ka ras
+lemon lime: []
+lemon peel:
+- nimboo ka kaat
+lemon salt:
+- amchur
+- namplat
+lemon soda:
+- nimbu soda
+lemon vinegar:
+- nimbu mirch
+lemongrass:
+- jethi
+- dhania tulsi
+- dhania
+- dhania ka pata
+- chattapatta
+- rassenjood
+- remi
+- sanchar
+- chim
+- tulsi
+- udad ki pata
+- rassen
+- chattame
+- hara dhaniya
+lemongrass leaf:
+- tulsi chaal
+- joncher chaal
+lentil water:
+- chana lentil water
+- chana ka pani
+lentils:
+- dal
+- pottukadalai
+- toor dal
+- chana
+- udad dal
+- masoor
+- toor
+- masoor dal
+lettuce:
+- sabun
+- phool gobhi
+- salan
+- pata
+light: []
+lilva beans:
+- avareka
+- lilva
+lima beans:
+- avarekalu
+- phal saag
+- avarelu
+- lilva beans
+lime:
+- laal shahi
+- sitafal
+- नींबू (nimbu)
+lime juice:
+- laal amla
+lime zest:
+- orange zest
+loaf:
+- khasta roti
+lotus seeds:
+- alag
+- mothak
+lotus stem: []
+lychee skin: []
+macaroni pasta:
+- makaroni
+mace:
+- jiezan
+- javitri powder
+- javitri
+mackerel:
+- machli
+maida:
+- all-purpose flour
+- atta
+- wheat flour
+maize flour:
+- corn flour
+makhana:
+- lotus seeds
+- popcorn
+- makhan
+malabar spinach:
+- azolla
+malteser: []
+malwani masala: []
+manathakkali fry:
+- eggplant fry
+mango:
+- totapuri mango
+- kadambari
+- aam
+- आम (aam)
+- amra
+- amro
+- amrooti
+- amrood
+mango bites:
+- amrood
+mango coulis: []
+mango drink:
+- amra pani
+- mango juice
+mango juice:
+- amra juice
+mango papad:
+- am papad
+mango paste:
+- amrood paste
+mango pickle:
+- amra pickle
+- amchur
+- amrta ka salan
+mango pickle masala:
+- amchur masala
+mango pickle sauce:
+- amchur achar
+mango powder:
+- amroobatti
+- amrooni powder
+mango pulp:
+- kesar mango pulp
+- amro ka ras
+- amroole
+- amrooti
+- amrood
+mango shrikhand: []
+mango skin:
+- amrood ka bomb
+maple syrup:
+- chocolate syrup
+- nutella
+marie biscuits:
+- graham crackers
+- biscuit
+marinara sauce:
+- marinara
+masala: []
+mascarpone cheese:
+- mascarpone
+mash: []
+masoor dal:
+- masoor
+- red lentil
+- masoor daal
+- red lentils
+matcha:
+- green tea powder
+matki:
+- moth pea
+- moth dal
+mawa:
+- ghee
+mayo:
+- mint mayo
+mayonnaise:
+- nutralite
+- mayo
+- classic
+- garam mayne
+- mayonez
+meat masala: []
+medu vada:
+- মেদু ভাদা
+melon seeds:
+- kadu narali
+- kherva
+mess: []
+methi leaves:
+- methi patta
+- methi
+- fenugreek leaves
+methi powder:
+- methi dana
+methi seeds:
+- methi dana
+- fenugreek seeds
+- jeera methi
+- methi kuria
+- hari methi
+- jira
+- methi
+milk:
+- skimmed milk
+- malai
+- gau mutra
+- mahal
+- dudh
+- coconut milk
+- dahi
+- milk full
+- full fat milk
+- doodhi
+- phal
+- doodh
+- दुध
+- dairy milk
+- thayal
+- mleed
+- दूध (doodh)
+- almond milk
+milk chocolate:
+- gauva
+- gau mutra chakali
+milk masala:
+- kesar milk
+milk powder:
+- gau mutra
+- dairy powder
+- dahi powder
+milk water:
+- dudh pani
+millets:
+- buru
+- kutki
+- jhangora
+mini pita breads: []
+mint:
+- pudina
+- pudina paste
+- nimbu pata
+- pudina garnish
+- pudina patta
+- coriander
+mint leaves:
+- coriander leaves
+- pudina
+- pudhina
+- pudina leaves
+- pudina patta
+- pata
+mint paste:
+- pudina paste
+- pudina
+mint pesto: []
+mint powder:
+- pudina
+mishti doi: []
+mixed beans, kabuli channa, white chickpeas:
+- kabuli chana
+- chana
+- aloo chana
+mixed berries: []
+mixed dry fruits:
+- kaju
+- pistachios
+- almonds
+- raisins
+- badam
+- cashew nuts
+mixed fruit jam:
+- mixo phal ki jam
+- phool khila jam
+mixed fruits: []
+mixed greens: []
+mixed herbs:
+- masala
+mixed nuts:
+- mix nuts
+- vari ghee
+- cashews
+- mithai
+- cashew
+- vari tyal
+- pista
+- kaju
+- pistachios
+- almonds
+- mitthai chot
+- khajoor
+- varied nuts
+- badam
+mixed nuts almond:
+- bhujia
+mixed spice blend:
+- kolhapuri chili
+- lasun
+- goda masala
+mixed spices:
+- masala
+- bay leaves
+mixed vegetables:
+- sabzi
+- mirchi sabzi
+- mirchi
+- mix vegetable
+- காய்கறிகள்
+- mixo sabzi
+- sabzi mix
+- arbi
+molasses:
+- gur
+mole sauce: []
+momos: []
+moong:
+- moong sprouts
+- green moong dal
+- chana dal
+moong dal:
+- mangodi
+- mug kichuri
+- yellow moong dal
+- green moong dal
+- split yellow moong dal
+- arista
+- moong
+- mung dal
+- arhar dal
+- mallika dal
+- matar dal
+- split moong dal
+- yellow split peas
+- masoor dal
+moong sprouts:
+- matar moong ki phool
+- moong ki palak
+- matar moong
+moth dal:
+- matki
+motichoor ladoos:
+- motichoor
+mozzarella cheese:
+- cheddar cheese
+- paneer
+- cheddar
+- mozzarella
+- partskim mozzarella
+- cheese
+muesli:
+- saffola muesli
+- म्यूसेली (mueseli)
+mullet fish:
+- shefali
+- shingi
+multigrain flour:
+- besan
+- multigrain
+mushroom:
+- shiitake
+- shankhapushpi
+- ganjis
+- gacchphi
+mushroom stem:
+- makhad ki gawacha
+mushrooms:
+- portobello mushrooms
+- khumb
+- kund
+- kutumbhi
+- button mushroom
+- tawa
+- champignon
+- kundroo
+musk melon: []
+muskmelon: []
+mussels:
+- makhi
+- sea mussels
+mustard:
+- kasundi
+- rai
+- sarson
+mustard flowers: []
+mustard greens:
+- sarson ka saag
+mustard oil:
+- rani tel
+- dalda oil
+- sarson ka tel
+- sesame oil
+- gingelly oil
+- rai oil
+- sarson oli
+- sarson oil
+mustard powder:
+- सरसों का पाउडर
+- radaraj powder
+- remi
+- rehu
+mustard salt:
+- lal mirch ka namak
+mustard sauce:
+- kasundi
+- tare
+mustard seeds:
+- jeera
+- sarson ke beej
+- kuria
+- sarson
+- than
+- rai
+- shadhara rai
+- kali sarson
+- sarson ka paste
+- sarson ke bij
+- sarson ke bete
+- sarson ke bote
+- kalanamak
+- matar
+mutton:
+- machh
+- mereez
+- gosha
+- gosht
+- keema
+- बासुख (basuk)
+- मटन (mutton)
+mutton curry: []
+mutton keema: []
+mutton liver:
+- mutton ganji
+- kaleji
+- galeji
+mutton rib: []
+nachos: []
+nectarine:
+- naranga
+- narmal
+neem flowers:
+- haramphal
+- memitha
+neem leaves:
+- memthaki
+- neem
+nigella:
+- kalonji
+- onion seeds
+nigella seeds:
+- kalonji
+- bij
+nolen gur:
+- nolen gur date jaggery
+- nolen gur syrup
+nondairy:
+- sabhee
+- matar matra
+noodles:
+- sewpie
+- sev
+- चावल नूडल्स (chawal nuddels)
+- attal
+- hakka noodles
+- maccaroni
+- चावल नूडल्स (chawal noodles)
+- attar
+- sewai
+- maggi noodles
+- yaki soba
+nutella:
+- the crepes
+nutmeg:
+- jaiphal
+- jaiphal powder
+- javitri
+nutralite:
+- nutrilite
+- garlic oregano
+nuts:
+- mix nuts
+- kaju
+- peanuts
+- pistachios
+- almonds
+- makhan
+- badam
+- variant nuts
+nylon sabakki: []
+oat biscuits: []
+oat bran:
+- dalia
+oatmeal cookies:
+- atta cookies
+oats:
+- instant oats masala
+- oat bran
+- oats bran
+- dalia
+- instant oats
+- oatmeal
+oats dosa batter: []
+oats flour:
+- ओट्स का आटा (oots kaa aataa)
+- oat flour
+oil:
+- ghee
+- zayt
+- tel
+- sunflower oil
+- vegetable oil
+okra:
+- phoolkhi
+- phali
+- bhindi
+- kravendaikkai
+- lady finger
+olive oil:
+- taal oli
+- जैतून का तेल (jaatun ka tel)
+- zaitun oil
+- ziti oil
+- जैतून का तेल
+- zaitoon ka tail
+- virgin olive oil
+- elin oil
+- zaitoon ka ghee
+- elsee oil
+- zayt oil
+- sarson oil
+- extra virgin olive oil
+- tare
+- green olive oil
+- sesame oil
+- ghee
+- tilon oil
+- tareeh oil
+- zaitun ka tel
+- tel
+- taree tel
+- zayt
+- basting
+olives:
+- kala nim
+onion:
+- bayan
+- bhang
+- paya
+- प्याज (pyaz)
+- pyaaz
+- bhangi
+- sambar onion
+- pyaz
+- phal
+- laal sippi
+- piriya
+- thin+
+- dagad
+- piri onion
+- बैंगन (baingan)
+onion paste:
+- pyaaz ka paste
+- pyaz paste
+onion powder:
+- pyaz powder
+orange:
+- narikel
+- नारंगी (naarangi)
+- narangi
+- laal mirch
+- naranja
+orange blossom water:
+- noor gulab ka ras
+orange essence:
+- narangi ka ela
+orange food color:
+- narangi ka rang
+orange juice:
+- narangi juice
+- laal phaal juice
+- संतरा का रस (saantaa kaa rasa)
+- mosambi juice
+orange liqueur:
+- narangi liquor
+orange liquor:
+- narangi dewar
+orange marmalade:
+- narangi jam
+orange peel: []
+orange pulp:
+- narangi pulb
+orange rind:
+- narin
+oregano:
+- hui
+- ori ganche
+- dried oregano
+- tamatar peti
+- ore gan
+oregano powder:
+- ori rango
+oreo biscuits:
+- oreo
+- oreos
+- oreo biscuits decorating
+oysters:
+- makari
+paan mix:
+- mukhwas
+pabda fish: []
+pachrangi masala: []
+palak:
+- spinach
+palm: []
+palm fruit:
+- narial
+palm jaggery:
+- shakar pandan
+- jaggery
+- panchdrog
+- gur
+palm sugar:
+- gur
+- narell
+- jaggery
+- panakalkandu
+- shaktigatta
+panch phoran:
+- kadhi phodni
+- pachaparora masala
+panch phoron:
+- five spice blend
+panchan masala: []
+pandan leaf:
+- pandan
+paneer:
+- cottage cheese
+- पनीर (paneer)
+- besan
+- fresh paneer
+- soft paneer
+- tofu
+- queso fresco
+- cheese paneer
+- chenna
+pani puri: []
+panini bread:
+- roti
+papad:
+- papdi
+- besan
+- papad chaat
+- रबडी (rabdi)
+- पapad
+- urad dal
+- papad puri
+papad masala:
+- papad seasoning
+papads:
+- पapad
+papaya:
+- papita cubes
+- पहाड़ी अमरूद
+- papita juice
+- papita
+papaya paste: []
+papaya skin:
+- papaya chaal
+papdi:
+- poori
+papdi puri:
+- papdi
+- puri
+paprika:
+- lal mirch powder
+- lal mirch
+- murga paprika
+parangikai: []
+parangikai pumpkin:
+- paddu gathi
+- karela
+- parangikai
+- palak bharta
+- phal pad
+- toor ka bhindi
+- thondu kizhangu
+paratha:
+- roti
+- atta paratha
+- tawa paratha
+- ghee paratha
+- ghee roti
+- nan
+parcel: []
+parmesan: []
+parmesan cheese:
+- parmesan
+parmesan cheese, pecorino cheese, italian bread crumbs:
+- parmesan
+- pecorino
+parsley:
+- basil
+- dhania
+- pudina
+- pudhina
+- marjoram
+- पार्सली (paarsalee)
+- hara dhania
+- oregano
+- pudina patta
+- coriander
+- hara dhaniya
+parsnip: []
+passion fruit:
+- amrood
+pasta:
+- ruote pasta
+- sev
+- pastina
+- lagan
+- makkar
+- gram dal pasta
+- makaroni
+- seviyan
+- orzo
+- sew
+- illet
+- sevi
+- vermicelli
+pasta sauce:
+- pizza sauce
+pasta water: []
+pastry:
+- पाई क्रस्ट (pai crust)
+pastry dough:
+- shortcrust
+- mawa
+pav bhaji masala: []
+pav bun:
+- bun
+- pav
+- burger bun
+pav buns: []
+pea:
+- matar
+peaches:
+- amrood
+- अमरूद (amrood)
+peanut butter:
+- arrur vazhakkatai
+- batai ghee
+- arrutal ka ghee
+- butter peanuts
+- arrut buruti
+- badam ka ghee
+- मूंगफली का मक्खन
+- bungen
+- arrabiya buti
+- arrabiya ghee
+- arrad ka paste
+peanut oil:
+- mrithavadi tel
+- arachidi oil
+peanut powder:
+- chane ka atta
+peanuts:
+- moongphali
+- cashew
+- mungfali
+- mungphali
+- chana
+- chana masala
+- chane
+- chikki peanuts
+- groundnuts
+- badam
+pearl onion:
+- nalla ulla
+- sambar pyaaz
+- uthsav pyaaz
+- senwa onion
+- sambar onion
+- pyaz
+pears:
+- aarati bhatt
+- green pears
+pecans:
+- fag
+- khajoor
+pecans walnuts:
+- kaju
+- fali
+peepramul powder:
+- ganthoda
+penne pasta:
+- penne
+- wheat pasta
+penne rigate pasta:
+- penne pasta
+pepper:
+- kaala mirch
+- mirch
+- mirchi
+peppermint:
+- budhha jaso
+peri peri sauce:
+- hari mirchi ka paste
+pesto:
+- olives pesto
+philadelphia cheese: []
+phulka:
+- chapati
+- roti
+- atta phulka
+phyllo dough:
+- filo dough
+phyllo sheets:
+- strozzel
+pickle masala:
+- pickles masala
+pickle masala, methi achar, sambhar:
+- pickle masala methi achar sambhar
+pickle spice:
+- masala
+pickle spices:
+- amchur
+- imli
+pie crust:
+- roti
+- pai dough
+pie crust dough: []
+pine nuts:
+- khas
+- phool makhana
+- fag
+pineapple:
+- could procure than juice
+- anarphal
+- anar
+- anardana
+- anar kathal
+- ananas
+pineapple extract:
+- anardana mitha
+pineapple juice:
+- ananas juice
+- anardana juice
+pink masoor dal:
+- chana dal
+pinto beans: []
+pirandai: []
+pistachio:
+- fagru
+- bada
+pistachios:
+- fagān
+- phista
+- phutane
+- vanilla
+- fagru
+- pistachio
+- phutkin
+- fena
+pistachios, almonds:
+- fanjeera
+- badam
+pita bread:
+- roti
+- mini pita
+pita chips: []
+pizza: []
+pizza base:
+- storebought pizza base
+pizza dough:
+- roti dough
+pizza sauce:
+- pizza ka paste
+plantain stem:
+- arbi
+plum:
+- अमरूद (amrut)
+- amrood
+- अमरूद (amrood)
+plum sauce:
+- amchur
+plums: []
+poblano chillies:
+- bhaji chilli
+- green bell peppers
+poha:
+- lochen
+- पोहा (po-haa)
+- loppeda
+- aval
+- red poha
+- loiya
+- tikitolu
+- tike
+- flattened rice
+pointed gourd:
+- parwal
+polenta:
+- maizena
+poli: []
+pomegranate:
+- anar
+pomegranate juice:
+- anar juice
+pomegranate kernels:
+- anar mitha
+- anar
+- anar bhuiya
+pomegranate molasses: []
+pomegranate powder:
+- anardana powder
+pomegranate sauce:
+- anar ka paste
+pomegranate seeds:
+- anar baji
+- anar phool
+pomfret:
+- paplet
+- pomfret fish
+- namak mahi
+pomfret fish:
+- bangada machli
+pompano fish:
+- bahia fish
+poppy seeds:
+- lal poppy seeds
+- til
+- rai
+- rajma
+- bhusi
+- কালো বীজ
+- til ka paste
+- parsi dana
+- khus khus
+- bhui bij
+porcini mushrooms:
+- porcini
+pork belly:
+- amchur
+- porcut belly
+portobello mushrooms: []
+potato:
+- aloo
+- aaloo
+- aalo
+- kartal
+- batata
+- vadar
+potato fingers:
+- aloo fry
+potato masala: []
+potato skin:
+- aloo
+potatoes:
+- batta
+- karela
+- aloo
+- aaloo
+pound cake:
+- lemon pound cake
+prawn shells:
+- mor shell
+prawns:
+- ebi
+- gambas
+- aloo
+- amchur
+- velichchi
+- maya
+preferred: []
+prepared mustard:
+- tartar sauce
+preserved pineapple:
+- aam aloo
+pretzels: []
+processed cheese:
+- processed cheddar
+prune:
+- अंगूर
+pudina dahi chutney: []
+puff pastry: []
+puff pastry sheet: []
+puffed rice:
+- murmura
+- kheel
+- aralu
+puffed rice namkeen:
+- namkeen
+puliodarai powder:
+- puliyodharai
+- kothambu powder
+pumpkin:
+- kaddu
+- parangikai
+- बटरनट (butternut)
+- पैरंगी (pairangi)
+- kakdi
+- phal
+pumpkin flowers:
+- phalakhi
+pumpkin leaves:
+- phalakki
+pumpkin pie spice: []
+pumpkin sauce:
+- pumpkin pasta sauce
+pumpkin seeds:
+- choti ilaichi
+puris:
+- pauri
+purple cabbage:
+- telangana pudi
+- sagoli
+quail eggs:
+- bhutva
+quinoa:
+- kutki
+quinoa flour:
+- क्विनोआ आटा (quinone aata)
+- मिल्ट आटा (milt aata)
+rabdi: []
+rabodi: []
+rabri: []
+radhuni spice:
+- radhuni
+radish:
+- mooli ka reva
+- turai
+- mutunga
+- sunkha mirch
+- paku
+- mullangi
+- mooli
+radish greens:
+- mooli patte
+- rehu patta
+- mooli patta
+radish leaves:
+- mooli patta
+ragi:
+- ragi flour
+ragi dosa batter:
+- ragi batter
+- ragi dosa
+ragi flour:
+- finger millet
+- finger millet flour
+- nagli
+ragi rava: []
+ragi seeds:
+- ragi
+raisins:
+- anja
+- kishmish rum
+- kaju
+- kesu
+- badam
+- black raisins
+- kishmish ka doodh
+- raisins sultanas
+- sutana raisins
+- kaju barah
+- kishmish
+- kismat
+- kishan mithi
+- kishmish milk
+raita masala: []
+rajgira flour:
+- amaranth flour
+ranch sauce: []
+ras el hanout: []
+rasam powder: []
+rasgulla:
+- rasgulla variety
+rasgulla syrup: []
+raspberries:
+- arvind
+raspberry compote: []
+rava:
+- chiuri rava
+- चिरौती रावा
+rawa:
+- sooji
+- rava
+- suji
+- chakli
+reacheado masala: []
+recheado masala: []
+red bell pepper:
+- capsicum
+- bhindi
+- sakra mirch
+- hari capsicum
+red cabbage: []
+red chili:
+- lal mirch
+red chili pepper:
+- hari mirch
+red chili powder:
+- lal mirch powder
+red chilli:
+- red chillies
+- kashmiri chilli
+- lal mirch
+- byadagi mirch
+- mirch
+- sankeshwari mirch
+- hari mirch
+red chilli flakes:
+- jeera
+- spice
+- mirch powder
+- black pepper
+- tabasco sauce
+- lal mirch
+- lal chilli flakes
+- lal mirch flakes
+- hari mirch
+red chilli flakes, red chillies:
+- lal mirch
+red chilli paste:
+- mirch paste
+- hari mirch paste
+red chilli powder:
+- dajust
+- paprika
+- ram garam masala
+- laksha powder
+- dried red chillies
+- kali mirch
+- mirch powder
+- black pepper
+- lal mirch
+- chili powder
+- lal mirch powder
+- लाल मिर्च पाउडर
+- लाल मिर्च पाउडर (lal mirch powder)
+- kashmiri mirch
+- cayenne pepper
+- hari mirch powder
+- byadgi mirch
+- lal chiili
+- hari chilli paste
+- lal mirch flakes
+- lal saunth
+- hari mirch
+red chilli sauce:
+- red chilli paste
+- tomat ketchup
+- tomato chilli sauce
+- lal mirch paste
+- mirch ka salan
+- hari mirch ka paste
+- lal mirch ka paste
+- mirch ka paste
+red chillies:
+- byadgi mirch
+- jal jeera
+- lal mirch
+- dried red chilies
+- mirch
+- hari mirch
+red chillies, green chillies:
+- lal mirch
+- hari mirch
+red curry paste: []
+red food color: []
+red lentil:
+- masoor dal
+red lentils:
+- masoor dal
+red onion:
+- pyaz
+- piyaaz
+- batti
+red romaine lettuce: []
+red wine:
+- wine
+reduced fat cheese:
+- low fat cheese
+- fat free cheese
+reduced fat parmesan cheese:
+- low fat parmesan
+reduction: []
+reserved: []
+rice:
+- sella rice
+- masuri rice
+- mint rice
+- rice soak
+- basmati rice
+- sona masuri rice
+- jeera rice
+- raw rice
+- bison
+- sona rice
+- bata
+- chawal
+- sinnamayila rice
+- gobind bhog rice
+- mattha rice
+- dosa rice
+- white rice
+rice ada:
+- ada
+rice flour:
+- attar ka dal
+- bata aata
+- bhat powder
+- rice powder
+- chawal ki atta
+- chakali daal
+- चावल का आटा (chaaval kaa aataa)
+- attapam flour
+- chawal ki aata
+- jwari aata
+- bata atta
+- attar ke dal ka atta
+- pabba flour
+rice noodles:
+- arroz noodle
+- flat rice noodles
+- arsi atta
+- atti noodles
+- att rice noodles
+rice paper: []
+rice paper rolls:
+- arroz papel
+rice poha:
+- bata poha
+rice powder:
+- arooti
+rice puttu:
+- wheat puttu
+rice rava:
+- idli rava
+rice vermicelli noodles: []
+rice vinegar:
+- vinegar
+- patta aci
+- bata aci
+rice water:
+- chawal ka pani
+- mandi
+rice wine:
+- sh rice wine
+rice wine vinegar:
+- sakamushi
+ricotta:
+- malai paneer
+- cottage cheese
+ricotta cheese:
+- paneer
+- maawa
+- soft cheese
+- butter cheese
+- ricotta
+ridge gourd:
+- peerkangai
+- turai
+ridge gourd skin:
+- turai
+- peerkangai
+ripe jackfruit:
+- kathal
+risotto: []
+roasted peanut powder: []
+roasted peanuts:
+- chana dal
+- peanuts
+rocket:
+- pudina
+rocket leaves:
+- arugula
+- garden cress
+- puccha
+rohu:
+- rui
+- rohu fish
+rohu fish:
+- carp
+- katla
+- roh fish
+- catla fish
+rohu katla fish:
+- aar maach
+rolled oats:
+- dalia
+- oats
+romaine lettuce:
+- sala
+- sarson ka saag
+rooh afza:
+- rooh afza sharbat
+roomali roti: []
+rose:
+- gulab
+rose essence:
+- गुलाब जल (gulaab jal)
+rose hips:
+- gulmohar phool
+- jamun phool
+rose milk:
+- gulab jamun milk
+rose petals:
+- gulab
+- gulmohar
+- gulab jama
+rose sugar:
+- gur marwa
+- rosemary sugar
+rose syrup:
+- गुलाब चीनी (gulab chini)
+rose water:
+- gulab water
+- gulab jal
+- attar
+- gulabari
+- rooh afza
+rosemary:
+- मिश्रित जड़ी-बूटियाँ
+roti:
+- chapati
+- phulka
+rotini pasta:
+- wheat pasta
+rum:
+- sharbat
+rum brandy: []
+rum port: []
+runner beans:
+- arudra
+rye: []
+rye bread:
+- chapati
+- roti
+rye flour: []
+sabudana:
+- nylon sabakki
+saffron:
+- kesar
+- zafran
+- केसर (kesar)
+sage:
+- rosemary
+salad: []
+salad leaves: []
+salmon:
+- salmon fish
+- rawas
+salmon fillet:
+- ilish
+salsa:
+- tamatar salsa
+salt:
+- chaat masala
+- desi namak
+- coarse salt
+- नमक (namak)
+- sālān
+- margarita salt
+- kala namak
+- salt during fasting
+- sendha namak
+- aloo garam masala
+- havan masala
+- namak
+salt water:
+- namak pani
+sama flour:
+- millet flour
+sambal oelek:
+- sambal
+sambal paste:
+- sambal oelek
+- chilli oelek
+sambar powder:
+- sambar masala
+- sambar churna
+samosa:
+- pastry
+samvat rice:
+- vrat ke chawal
+sandwich:
+- sandviç
+- chutney
+- butter sandwich
+sangri: []
+saoji masala:
+- saoji spice
+sapota:
+- chikoo
+sapota skin:
+- chikoo skin
+sardine:
+- pedvey
+- sardine fish
+sardine fish:
+- mathi
+sarsaparilla root:
+- mahali
+sauerkraut:
+- crisp cabbage
+sausage:
+- bakra meat
+- italian sausage
+save: []
+schezwan sauce: []
+scoops:
+- छोटा स्कूप (chota scoop)
+- guli
+scraped coconut:
+- murabba coconut
+sea bass:
+- bhetki
+seaweed:
+- nori
+seer fish:
+- sela fish
+semi sweet chocolate chips:
+- madhuram chips
+- shehadat
+semia baked: []
+semolina:
+- sooji
+- rice rava
+- suji
+- rava
+serrano pepper:
+- saraano mirch
+sesame ghee:
+- white sesame ghee
+sesame oil:
+- gingelly oil
+- til oil
+- gingelly
+- til ka tel
+- sarson oil
+sesame powder:
+- til ka atta
+sesame seeds:
+- kali til
+- sarson
+- til ka atta
+- til
+- til seeds
+- rai
+- white til
+- til oil
+- white sesame seeds
+- black sesame seeds
+sesame seeds paste:
+- til seeds paste
+sev:
+- shree khand
+- bonda sev
+- imli sev
+- chakli
+shark fish:
+- sharksari
+- sharksheera
+shaved coconut:
+- कद्दूकस किया नारियल
+shiitake mushrooms:
+- shisham phool
+shortbread cookies: []
+shredded coconut:
+- tutty chann
+shrikhand: []
+shrimp:
+- aloo bhaji
+- vannakkam
+shrimp paste:
+- chembal
+- shrimpy paste
+shrimps:
+- machli
+- shimp
+sichuan peppercorns:
+- nepali timur
+- timur
+silver leaf:
+- varak
+- chandi vark
+sitaphal:
+- nongu
+- babua
+- chuna fruit
+slider bun: []
+smoked flavour:
+- coal smoke
+smoked green chilli: []
+smoked paprika:
+- lal mirch powder
+snake gourd:
+- pudalangai
+- padavalai
+snow peas: []
+soba noodles: []
+soda:
+- baking soda
+- soda ash
+soda water:
+- nimish pani
+- sparkling water
+sooji:
+- suji
+- semolina
+- rava
+sorrel leaves:
+- gongura
+sour:
+- amla
+sour cream:
+- hung curd
+sourdough bread:
+- loaf
+soy flakes:
+- soybean flakes
+soy flour: []
+soy granules: []
+soy milk:
+- soya dal ka doodh
+- soy dala
+- almond milk
+soy nuggets:
+- soyabean nuggets
+- soya nuggets
+soy sauce:
+- namkeen chashni
+- soy water
+- fish sauce
+- soya sauce
+- kala tari
+- light soy
+- machher jhuri
+- tamari
+soya:
+- tofu
+- soya bean
+soya chaap:
+- tofu
+soya sauce:
+- soya chutney
+soybeans:
+- soya
+- soy daal
+- whole soya dal
+spaghetti:
+- pasta
+- sewda
+- स्पैगेटी (spagetti)
+- makkar
+spaghetti pasta:
+- sewaili
+- penne spaghetti
+- pasta
+- makkhai
+- penne pasta
+- spaghetti
+- makaroni
+- wheat pasta
+- makkhai pasta
+sparkling wine:
+- champagne
+- shampany
+spice powder:
+- varam
+- masala
+spicy peanuts:
+- congress kadlekayi
+spinach:
+- agathi keerai
+- pula
+- pulao spinach
+- palak
+- pooli kura
+- palak ke patte
+- pulai
+- amaranth leaves
+spirulina: []
+split black urad dal: []
+split moong dal:
+- moong dal
+- mung dal
+split red lentil:
+- masoor dal
+split toor dal:
+- arhar dal
+- besan
+- toor dal
+split urad dal:
+- white urad dal
+sponge cake:
+- pusa
+- souna
+- sponji cake
+spongesilk squash:
+- gilki
+spring onion:
+- green onion
+- हरी प्याज (hari pyaaz)
+- phoolakhi
+- pyaaz
+- pyaaz wala
+- sabun
+- pui ghonto
+- phalakhi
+- phool gobhi
+- chive onion
+- phal saun
+- pudhina jhukin
+- chutney leaves
+- phool ki methi
+- shallot
+- dhaniya
+- phutkin
+- pudhina
+- sabun pyaaz
+- phool pyaaz
+spring onions:
+- phool matar
+spring roll wrappers:
+- paratha
+sprouted black gram: []
+sprouted moong dal:
+- chana dal sprouted
+sprouted ragi: []
+sprouts:
+- besan ke phool
+- aloo ki bhaji
+squid:
+- idy
+sriracha sauce:
+- red chili sauce
+- hari mirch ka paste
+- mirch ka pani
+- श्रीराचा सॉस (shree-raa-chaa soos)
+- chilli sauce
+- sriracha
+- mirch ka paste
+ssf: []
+star anise:
+- chuka phool
+- elaichi
+star fruit:
+- tarbooj
+- tarbuja
+stock:
+- chicken stock
+- vegetable stock
+- water
+store bought: []
+strands: []
+strawberries:
+- imli
+- स्ट्रॉबेरी (straoberi)
+- gulkand
+- anar
+- nashpati
+- amrood
+- mastungi
+strawberry: []
+strawberry cake:
+- anardana ka cake
+strawberry compote: []
+strawberry essence:
+- anardana ka nasha
+strawberry jam:
+- gosha jam
+- anar jam
+strawberry vodka: []
+strawberry wafers: []
+string beans:
+- chavli
+- lilva beans
+- patrani beans
+- avarekkalu
+sugar:
+- char
+- rawa sugar
+- case you intend not pineapple juice
+- caster sugar
+- shakar
+- chheel
+- coconut sugar
+- cane sugar
+- jaggery
+- channi
+- sukh
+- ichhdi
+- gur
+- cake candy
+- char si sugar
+- char siwa
+- charas
+- channni
+- sprinkling
+- brown sugar
+sugar icing:
+- shakar paste
+sugar syrup: []
+sugarcane juice:
+- saag
+sultanas:
+- raisins
+sumac:
+- madanassa
+- ambari
+- सुमाक (sumak)
+sun dried lentil dumpling:
+- wadi
+sun dried tomato: []
+sun dried tomatoes:
+- kachaam
+sundakkai:
+- turkey berries
+sundkai: []
+sundried tomato:
+- tamatar suneli
+sunflower oil:
+- tadka
+- butter
+- sarson ka tel
+- sarson tel
+- তিলের তেল
+- canola oil
+- सूरजमुखी तेल
+- vadi oil
+- rai
+- सूरजमुखी का तेल (surajmukhi ka tel)
+- erachi pathiri oil
+- sarson oil
+- castor oil
+- coconut oil
+- roast oil
+- olive oil
+- ghee
+- mustard oil
+- सूरजमुखी तेल (surajmukhī tel)
+- pakora oil
+- tel
+sunflower seeds:
+- सूरजमुखी बीज
+- tagar
+- sarson
+superfine sugar:
+- ichcha mitti
+- powdered sugar
+suran:
+- arbi
+- urad lu
+surmai pomphret:
+- surmai
+- pomphret
+- mitha fish
+sweet chilli sauce:
+- mirch ka paste
+sweet corn:
+- pisti
+- makhan ke gaanj
+- makhan ka putli
+- makai
+- makhan ka tenga
+- matar
+sweet corn paste: []
+sweet potato:
+- shakarkand
+- kamal kakdi
+- pumpkin
+- shakarkandi
+sweet potato skin:
+- shaktikut ki chaadar
+- shaktikut ki kaat
+sweet potatoes:
+- shakarkand
+- shalgam
+sweet soy sauce: []
+sweetened coconut:
+- coconut flakes
+- nucchi
+sweetener:
+- gur
+- sugar
+swiss cheese: []
+tabasco sauce:
+- mirch powder
+taco: []
+taco shells: []
+tagliatelle pasta: []
+tahini:
+- sarson ka tel
+- chani
+- sesame seed paste
+tamarind:
+- imli ka panchar
+- tamarind pulp
+- imli
+- coconut tamarind
+- imli ka pani
+tamarind chutney:
+- imli chutney
+tamarind paste:
+- imli paste
+- imli
+- concentrated
+- tomato ketchup
+- अमचूर
+tamarind pulp:
+- imli pulp
+tamarind water:
+- limbu tamarind water
+- imli tamarind water
+- imli ka pani
+tandoori chicken masala: []
+tandoori masala: []
+tandoori mayo: []
+tapioca:
+- senwa
+tapioca flour:
+- sago
+- senwa
+- majjiga
+tapioca pearls:
+- sabudana
+taro root:
+- arbi
+tarragon:
+- safran
+- dhania
+tartare dip:
+- dahi bhalle wala dip
+tartlet: []
+tea:
+- चाय (chai)
+- chai
+tea bag: []
+tea bags: []
+tea leaves:
+- chai leaves
+- chai ki patti
+tender morning leaves:
+- tyme leaves
+- tender leaves
+tequila: []
+teriyaki sauce:
+- teriyaki
+thai basil:
+- holy basil
+- tagar
+thai sweet chilli sauce: []
+thandai masala: []
+thandai syrup: []
+thattai: []
+thonnai:
+- avleaf
+thyme:
+- dried thyme
+- hari jeera
+tinda:
+- dondakaya
+- kovakkai
+- apple gourd
+tindora:
+- shambar
+- dondakaya kovakkai
+- sanduni
+- dondakaya
+- kovakkai
+- manoli
+tofu:
+- toofu
+- cottage cheese
+- sooji
+- soft tofu
+- paneer
+- sabudana
+- sooji ke bhat
+- sabudana tofu
+- firm tofu
+- paneer (sometimes)
+- soya bean curd
+- soojiya
+- sabji paneer
+tomatillo:
+- tamatar
+tomato:
+- tomato hybrid
+- julienned tomatoes
+- pomodoro
+- tomatoes
+- टमाटर (tamatar)
+- tamatar
+tomato basil pasta sauce: []
+tomato chunks: []
+tomato core: []
+tomato ketchup:
+- pizza sauce
+- tomato sauce
+- tamatar ketchup
+- imli ketchup
+tomato pasta sauce: []
+tomato paste:
+- tamatar paste
+tomato pulp:
+- tomato juice
+- tomato puree
+- tamatar
+tomato puree:
+- tomatopuree
+tomato salsa:
+- tamatar salsa
+tomato sauce:
+- tomato paste
+- tomatoy
+tomato seeds: []
+tomatoes:
+- tamatar
+toor dal:
+- split toor dal
+- besan
+- soak water
+- arista
+- split dal
+- pili dal
+- arhar dal
+- toor daal
+- choli
+- green dal
+- urad dal
+toothpicks: []
+topping: []
+tortilla:
+- makki roti
+- maza
+- pita bread
+- atta tortilla
+tortillas:
+- chapati
+- roti
+- टॉर्टिला (tortilla)
+triple sec: []
+trumpet:
+- baghar
+- trumpet flower
+tulsi leaves:
+- basmati leaves
+tuna:
+- tamura
+- tuna fish
+tur dal:
+- arhar dal
+turkey berries:
+- rambutan
+turmeric:
+- haldi
+turmeric powder:
+- haldi
+- manjith
+- haldi powder
+turnips:
+- revar
+- paya
+tutti frutti ice: []
+two halves: []
+tzatziki: []
+unsalted butter:
+- gosht fat
+unsweetened chocolate:
+- dark chocolate
+urad dal:
+- udad
+- white urad dal (split)
+- kali urad dal
+- urad
+- urd dal
+- black gram
+- lobia
+- wadi
+- udad dal
+- badi
+- sabja
+- white urad dal
+urad dal flour:
+- urd dal flour
+- besan
+- உளுந்த மாவு
+- harabhara dal flour
+- udad dal flour
+urad dal papad:
+- urd dal papad
+- papad
+urad lentils:
+- white urad lentils
+used: []
+vangi bath powder:
+- vangi bath
+vanilla:
+- vanila
+vanilla butterscotch essence: []
+vanilla custard powder: []
+vanilla essence: []
+vanilla ice:
+- badam kulfi
+- व्हॅनिला आईस (vanila ice)
+vazhaipoo:
+- banana flower
+vegetable:
+- sabzi
+vegetable oil:
+- sunflower oil
+- cooking oil
+- butter
+- tel
+- তেল
+- तेल (tel)
+- huile de vegetable
+- oil pouch
+vegetable stock:
+- sabzi ka nasha
+- dal ka nasha
+- dal ka pani
+- sabzi ka pani
+- veg stock
+- shaktikutar
+- sabji pani
+- chicken stock
+vegetables: []
+vendakkai:
+- ker
+vermicelli:
+- sev
+- mung vermicelli
+- banarsi sewai
+- rice noodles
+- सेमिया (semiya)
+- semolina
+- semi
+- semiya
+- वर्मicelli (vermicelli)
+- sevian
+- foxtail millet
+vinaigrette:
+- tikan masala vinaigrette
+vinegar:
+- aceti
+- nimbu kaas
+- amchur
+- natural vinegar
+- apple cider vinegar
+vodka:
+- apple vodka
+walking catfish:
+- dhara
+walnuts:
+- बादाम (baadaam)
+- bhasun
+- bada
+- bada ghee
+- roast walnuts
+- kaju
+- bute
+- fag
+- bukhoor
+- bukke
+- peeli murabba
+- khajoor
+- bhatt
+- fagun
+water:
+- doodh jal
+- aam
+- पानी (paani)
+- vandya
+- nil
+- paani
+- aab
+- dudh
+- जल (jala)
+- pani
+- ice cold
+- jal
+- buttermilk
+water chestnut:
+- singoda
+- singhade
+- singhara
+watermelon:
+- tarbooja
+- tarbooj
+watermelon juice: []
+watermelon rind: []
+watermelon seeds:
+- tarbooj ke beej
+wheat:
+- dalia
+- gehun
+- atta
+- rava
+wheat bran:
+- gurda
+- bran
+wheat bread:
+- chapati
+- roti
+- atta roti
+- naan
+wheat bread crumbs: []
+wheat flakes:
+- atta flakes
+wheat flour:
+- atta
+- गेहूं का आटा
+- maida
+- gehun flour
+- chakki atta
+- phulka vivatta wheat flour
+- gehun
+wheat germ:
+- daras
+wheat noodles:
+- sewai
+wheat pasta:
+- pasta
+wheat pita bread:
+- atta pita
+wheat tortilla:
+- chapati tortilla
+- aloo tortilla
+wheatgrass:
+- urd
+wheatgrass powder:
+- dhej
+whipped cream:
+- क्रीम (cream)
+whipped curd:
+- dahi
+whiskey: []
+white ash gourd:
+- vellai poosanikai
+white beans:
+- arhar dal
+white chocolate:
+- chocolatte
+- mokku
+white mustard seeds: []
+white pepper: []
+white sesame seeds:
+- til
+- sarson ke beej
+white urad dal:
+- split urad dal
+- udad dal
+white vinegar:
+- aloo amla
+- acetum
+white wine: []
+white wine vinegar: []
+wild cucumber:
+- kachri
+wine:
+- sawa
+- bai
+wonton wrappers:
+- momos
+wood: []
+wood apple:
+- bael
+y texture: []
+yam:
+- kilangu
+- surusenai
+- suran
+- bakla
+- shamama
+- padaval
+- aloo jar
+yard beans:
+- chawli beans
+yellow bell pepper:
+- suffer
+yellow curry paste: []
+yellow zucchini:
+- pyaaz ka bhutayala
+yield: []
+yogurt:
+- curd
+- dahi
+za'atar: []
+ziti pasta: []
+zucchini:
+- turri
+- ghoom

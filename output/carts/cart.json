@@ -1,0 +1,128 @@
+{
+  "recipes": [
+    "Masala Karela Recipe"
+  ],
+  "cart_items_count": 5,
+  "cart_total": 194.0,
+  "cart": [
+    {
+      "index": 10,
+      "product": "Chilli Green ",
+      "brand": "",
+      "sale_price": 16.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "total_price": 16.0
+    },
+    {
+      "index": 4,
+      "product": "Coriander Leaves",
+      "brand": "",
+      "sale_price": 17.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "total_price": 17.0
+    },
+    {
+      "index": 72,
+      "product": "Mango Raw",
+      "brand": "",
+      "sale_price": 50.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "total_price": 50.0
+    },
+    {
+      "index": 34,
+      "product": "Bitter Gourd",
+      "brand": "",
+      "sale_price": 15.0,
+      "quantity": 6,
+      "unit_metric": "unit",
+      "total_price": 90.0
+    },
+    {
+      "index": 1,
+      "product": "Onion",
+      "brand": "",
+      "sale_price": 21.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "total_price": 21.0
+    }
+  ],
+  "per_recipe": [
+    {
+      "recipe_name": "Masala Karela Recipe",
+      "ingredients_count": 11,
+      "ingredients": [
+        {
+          "ingredient": "red chilli powder",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "form": "powder"
+        },
+        {
+          "ingredient": "gram flour",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "form": "base"
+        },
+        {
+          "ingredient": "cumin seeds",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "form": "base"
+        },
+        {
+          "ingredient": "coriander powder",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "form": "powder"
+        },
+        {
+          "ingredient": "turmeric powder",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "form": "powder"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 1.0,
+          "unit": "to taste",
+          "form": "base"
+        },
+        {
+          "ingredient": "dry mango powder",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "form": "base"
+        },
+        {
+          "ingredient": "bitter gourd",
+          "quantity": 6.0,
+          "unit": "piece",
+          "form": "base"
+        },
+        {
+          "ingredient": "sunflower oil",
+          "quantity": 1.0,
+          "unit": "ml",
+          "form": "oil"
+        },
+        {
+          "ingredient": "onion",
+          "quantity": 1.0,
+          "unit": "piece",
+          "form": "base"
+        },
+        {
+          "ingredient": "water",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "form": "base"
+        }
+      ]
+    }
+  ]
+}

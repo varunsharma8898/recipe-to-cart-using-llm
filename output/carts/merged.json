@@ -1,0 +1,289 @@
+{
+  "recipes": [
+    "Matar Samosa Recipe -Green Pea Samosa",
+    "Rajasthani very roti recipe"
+  ],
+  "cart_items_count": 13,
+  "cart_total": 1670.0,
+  "cart": [
+    {
+      "index": 405,
+      "product": "Popular Essentials Jowa Flour",
+      "brand": "",
+      "sale_price": 49.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "ingredients": [
+        "maida",
+        "maida"
+      ],
+      "total_price": 49.0
+    },
+    {
+      "index": 141,
+      "product": "Dhara Nourish Refined Sunflower Oil Pouch",
+      "brand": "",
+      "sale_price": 199.0,
+      "quantity": 2,
+      "unit_metric": "unit",
+      "ingredients": [
+        "vegetable oil",
+        "vegetable oil"
+      ],
+      "total_price": 398.0
+    },
+    {
+      "index": 551,
+      "product": "Aashirvaad Iodised Salt ",
+      "brand": "",
+      "sale_price": 19.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "ingredients": [
+        "salt",
+        "salt"
+      ],
+      "total_price": 19.0
+    },
+    {
+      "index": 155,
+      "product": "Popular Essentials Jeera/Cumin Seeds",
+      "brand": "",
+      "sale_price": 38.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "ingredients": [
+        "cumin seeds"
+      ],
+      "total_price": 38.0,
+      "ingredient": "cumin seeds"
+    },
+    {
+      "index": 1763,
+      "product": "Yummiez Green Peas",
+      "brand": "",
+      "sale_price": 135.0,
+      "quantity": 4,
+      "unit_metric": "unit",
+      "ingredients": [
+        "green peas"
+      ],
+      "total_price": 540.0,
+      "ingredient": "green peas"
+    },
+    {
+      "index": 1457,
+      "product": "Ching's Secret Sauce, Green Chilli",
+      "brand": "",
+      "sale_price": 55.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "ingredients": [
+        "green chilli sauce"
+      ],
+      "total_price": 55.0,
+      "ingredient": "green chilli sauce"
+    },
+    {
+      "index": 272,
+      "product": "Dabur Hommade Tamarind Paste",
+      "brand": "",
+      "sale_price": 45.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "ingredients": [
+        "kokum"
+      ],
+      "total_price": 45.0,
+      "ingredient": "kokum"
+    },
+    {
+      "index": 574,
+      "product": "Everest Kashmiri Lal Chilli Powder",
+      "brand": "",
+      "sale_price": 279.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "ingredients": [
+        "red chilli powder"
+      ],
+      "total_price": 279.0,
+      "ingredient": "red chilli powder"
+    },
+    {
+      "index": 268,
+      "product": "Dabur Keora water - Authentic flavour for Biryani's and Desserts",
+      "brand": "",
+      "sale_price": 58.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "ingredients": [
+        "water"
+      ],
+      "total_price": 58.0,
+      "ingredient": "water"
+    },
+    {
+      "index": 241,
+      "product": "Popular Essentials Cinnamon Whole (Dalchini)",
+      "brand": "",
+      "sale_price": 33.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "ingredients": [
+        "cinnamon powder"
+      ],
+      "total_price": 33.0,
+      "ingredient": "cinnamon powder"
+    },
+    {
+      "index": 2143,
+      "product": "Del Monte Natural Vinegar ",
+      "brand": "",
+      "sale_price": 53.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "ingredients": [
+        "vinegar"
+      ],
+      "total_price": 53.0,
+      "ingredient": "vinegar"
+    },
+    {
+      "index": 2752,
+      "product": "Patanjali Atta Doodh Rusk",
+      "brand": "",
+      "sale_price": 40.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "ingredients": [
+        "water"
+      ],
+      "total_price": 40.0,
+      "ingredient": "water"
+    },
+    {
+      "index": 7,
+      "product": "Lemon",
+      "brand": "",
+      "sale_price": 63.0,
+      "quantity": 1,
+      "unit_metric": "unit",
+      "ingredients": [
+        "lemon"
+      ],
+      "total_price": 63.0,
+      "ingredient": "lemon"
+    }
+  ],
+  "per_recipe": [
+    {
+      "recipe_name": "Matar Samosa Recipe -Green Pea Samosa",
+      "ingredients_count": 11,
+      "ingredients": [
+        {
+          "ingredient": "maida",
+          "quantity": 3.0,
+          "unit": "cup",
+          "form": "base"
+        },
+        {
+          "ingredient": "vegetable oil",
+          "quantity": 3.0,
+          "unit": "tablespoon",
+          "form": "oil"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 1.5,
+          "unit": "to taste",
+          "form": "base"
+        },
+        {
+          "ingredient": "cumin seeds",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "form": "base"
+        },
+        {
+          "ingredient": "green peas",
+          "quantity": 1.5,
+          "unit": "cup",
+          "form": "base"
+        },
+        {
+          "ingredient": "green chilli sauce",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "form": "paste"
+        },
+        {
+          "ingredient": "kokum",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "form": "powder"
+        },
+        {
+          "ingredient": "red chilli powder",
+          "quantity": 0.25,
+          "unit": "teaspoon",
+          "form": "powder"
+        },
+        {
+          "ingredient": "water",
+          "quantity": 0.25,
+          "unit": "cup",
+          "form": "base"
+        },
+        {
+          "ingredient": "cinnamon powder",
+          "quantity": 0.5,
+          "unit": "teaspoon",
+          "form": "powder"
+        },
+        {
+          "ingredient": "vinegar",
+          "quantity": 2.0,
+          "unit": "teaspoon",
+          "form": "base"
+        }
+      ]
+    },
+    {
+      "recipe_name": "Rajasthani very roti recipe",
+      "ingredients_count": 5,
+      "ingredients": [
+        {
+          "ingredient": "water",
+          "quantity": 1.0,
+          "unit": "ml",
+          "form": "base"
+        },
+        {
+          "ingredient": "vegetable oil",
+          "quantity": 2.0,
+          "unit": "tablespoon",
+          "form": "base"
+        },
+        {
+          "ingredient": "maida",
+          "quantity": 1.0,
+          "unit": "cup",
+          "form": "base"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 1.0,
+          "unit": "to taste",
+          "form": "base"
+        },
+        {
+          "ingredient": "lemon",
+          "quantity": 1.0,
+          "unit": "piece",
+          "form": "base"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+# Zepto CSV column names (zepto_v2.csv) → internal schema used by retriever/optimiser.
+# Prices (mrp, discountedSellingPrice) are ×100 in the CSV; loader divides by 100 for sale_price.
+
+# Required Zepto columns (case-sensitive as in CSV)
+zepto_columns:
+  name: product
+  Category: category
+  discountedSellingPrice: sale_price   # divide by 100 in loader
+  weightInGms: weight_in_gms
+  mrp: market_price                    # optional; divide by 100 in loader
+
+# Columns to create with defaults (Zepto has no brand/description)
+defaults:
+  brand: ""
+  description: ""
+  sub_category: ""
+  type: ""
+  rating: null

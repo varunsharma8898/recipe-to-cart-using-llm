@@ -1,0 +1,10 @@
+# Dataset paths (relative to project root)
+recipe_data: "dataset/RecipeData.csv"
+bigbasket_products: "dataset/BigBasketProducts.csv"
+zepto_products: "dataset/zepto/zepto_v2.csv"
+# Which product catalogue to use: "bigbasket" | "zepto"
+products_source: "zepto"
+# Outputs
+output_dir: "output"
+evaluation_set: "output/evaluation_set_50_recipes.csv"
+products_food: "output/products_food.csv"

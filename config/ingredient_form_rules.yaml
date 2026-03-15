@@ -1,0 +1,84 @@
+# Rules to prefer base/whole product form and avoid wrong derived forms (juice, butter, powder)
+# Used by reranker (prompt) and product_form_filter (retrieval down-ranking).
+
+# Product name tokens that indicate a processed/derived form (not the raw ingredient).
+derived_form_keywords:
+  - juice
+  - butter
+  - powder
+  - paste
+  - spread
+  - oil
+  - sauce
+  - syrup
+  - extract
+  - achar
+  - pickle
+  - pickled
+
+# Ingredient tokens that typically mean the base/whole form unless the recipe says otherwise
+# (e.g. "karela" = vegetable, not juice; "cashews" = nuts, not butter; "moringa" = leaves or base).
+base_form_preferred_for:
+  - karela
+  - bitter gourd
+  - cashew
+  - cashews
+  - moringa
+  - onion
+  - tomato
+  - garlic
+  - ginger
+  - potato
+  - spinach
+  - coriander
+  - mint
+  - coconut
+  - peanut
+  - peanuts
+  - almond
+  - almonds
+  - green chilli
+  - green chillies
+  - red chilli
+  - red chillies
+  - chilli
+  - chillies
+
+# If the ingredient phrase contains one of these, prefer that form (don't force base).
+form_keywords_in_ingredient:
+  powder: ["powder", "powdered"]
+  juice: ["juice"]
+  butter: ["butter"]
+  paste: ["paste"]
+  leaves: ["leaves", "leaf"]
+  oil: ["oil"]
+  pickle: ["pickle", "pickled", "achar"]
+
+# Avoid wrong product types: e.g. cashew → not cookies; vegetable oil → not upma; rice → not rice bran oil.
+# When ingredient (lowercase) contains any of these tokens, down-rank products whose name contains the corresponding avoid list.
+ingredient_avoid_product_keywords:
+  # Nuts (cashew, almond, etc.) → do not pick cookies, biscuits, snacks
+  nuts:
+    ingredient_tokens: ["cashew", "cashews", "almond", "almonds", "peanut", "peanuts", "walnut", "walnuts", "pista", "pistachio"]
+    product_avoid: ["cookie", "cookies", "biscuit", "biscuits", "snack", "munchies", "choco", "chocolate"]
+  # Cooking oil → do not pick upma, instant mix, ready-to-eat
+  oil:
+    ingredient_tokens: ["oil", "vegetable oil", "sunflower", "cooking oil", "mustard oil", "refined oil"]
+    product_avoid: ["upma", "mix", "instant", "ready-to-eat", "breakfast", "snack"]
+  # Rice (grain) → do not pick rice bran oil or other oil
+  rice:
+    ingredient_tokens: ["rice", "raw rice", "basmati", "sona masuri"]
+    product_avoid: ["oil", "bran", "pouch"]
+  # Base vegetables → do not pick ready-to-cook, paratha, tikki, frozen snacks
+  vegetable:
+    ingredient_tokens: ["tomato", "tomatoes", "onion", "potato", "potatoes", "aloo", "gobi", "cauliflower", "cabbage", "carrot", "beans", "peas", "capsicum", "bell pepper"]
+    product_avoid: ["upma", "mix", "instant", "mccain", "momo", "paratha", "tikki", "tiki", "ready to cook", "ready-to-cook", "frozen", "sumeru", "snack", "finger", "fries"]
+  # Maida / all-purpose flour → exclude besan, gram flour, rice flour (different ingredients). Also avoid cereal/flakes.
+  flour:
+    ingredient_tokens: ["maida", "all-purpose flour", "all purpose flour", "refined flour", "plain flour"]
+    product_avoid: ["besan", "gram flour", "chickpea flour", "rice flour", "chawal ki atta", "urad dal flour", "urad flour", "flakes", "cereal", "bran", "muesli"]
+    exclude: true
+  # General flour (atta, wheat flour) → down-rank only
+  flour_wheat:
+    ingredient_tokens: ["flour", "atta", "wheat flour"]
+    product_avoid: ["flakes", "cereal", "bran", "kellogg", "breakfast", "muesli", "corn flakes"]

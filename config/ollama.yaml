@@ -1,0 +1,5 @@
+# Ollama LLM config
+base_url: "http://localhost:11434"
+model: "gemma3:4b"
+# Optional: timeouts (seconds)
+timeout: 120

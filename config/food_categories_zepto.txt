@@ -1,0 +1,14 @@
+# Zepto categories to include for recipe ingredient matching (one per line)
+# Must match Category values in dataset/zepto/zepto_v2.csv exactly.
+# Excludes non-food: Personal Care, Paan Corner, Home & Cleaning, Health & Hygiene
+
+Cooking Essentials
+Munchies
+Packaged Food
+Ice Cream & Desserts
+Chocolates & Candies
+Biscuits
+Dairy, Bread & Batter
+Beverages
+Fruits & Vegetables
+Meats, Fish & Eggs

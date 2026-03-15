@@ -1,0 +1,8 @@
+{
+  "n_recipes": 3,
+  "use_reranker": true,
+  "mean_latency_seconds": 85.73651348599999,
+  "total_seconds": 257.209540458,
+  "mean_ingredients_per_recipe": 13.666666666666666,
+  "mean_time_per_ingredient_seconds": 6.273403425804878
+}

@@ -1,0 +1,135 @@
+# Cooking measurement to metric (from proposal - NIST)
+# Used by quantity_optimiser for converting recipe units to ml/g
+volume_ml:
+  cup: 240
+  teaspoon: 5
+  tbsp: 15
+  tablespoon: 15
+  "fluid ounce": 30
+  "fluid oz": 30
+  ml: 1
+  litre: 1000
+  liter: 1000
+mass_g:
+  pound: 454
+  lb: 454
+  gram: 1
+  g: 1
+  kg: 1000
+  kilogram: 1000
+# Unit strings that mean "to taste" / no numeric quantity
+to_taste: ["to taste", "as required", "pinch", "optional", "for garnish"]
+
+# Dry goods: recipe in cups/tbsp → approximate grams (so quantity can use product weight_in_gms).
+# 1 cup = 240 ml; grams_per_cup used when converting volume to mass for quantity calculation.
+volume_to_mass_dry_goods:
+  - keywords: ["rice", "basmati", "raw rice", "sona masuri"]
+    grams_per_cup: 200
+  - keywords: ["flour", "maida", "all-purpose", "all purpose", "atta", "wheat flour", "refined flour"]
+    grams_per_cup: 120
+
+# Powders (spices, etc.): recipe in tsp/tbsp → grams. grams_per_teaspoon (5ml), grams_per_tablespoon (15ml).
+volume_to_mass_powders:
+  - keywords: ["turmeric", "haldi", "turmeric powder"]
+    grams_per_teaspoon: 2.2
+    grams_per_tablespoon: 6.5
+  - keywords: ["chilli powder", "red chilli powder", "lal mirch powder", "chili powder"]
+    grams_per_teaspoon: 2.5
+    grams_per_tablespoon: 7.5
+  - keywords: ["coriander powder", "dhania powder", "coriander"]
+    grams_per_teaspoon: 2.2
+    grams_per_tablespoon: 6.5
+  - keywords: ["cumin", "cumin powder", "jeera", "jeera powder"]
+    grams_per_teaspoon: 2.2
+    grams_per_tablespoon: 6.5
+  - keywords: ["garam masala", "garam masala powder"]
+    grams_per_teaspoon: 2.2
+    grams_per_tablespoon: 6.5
+  - keywords: ["black pepper", "pepper powder", "kali mirch"]
+    grams_per_teaspoon: 2.2
+    grams_per_tablespoon: 6.5
+  - keywords: ["powder", "spice"]
+    grams_per_teaspoon: 2.2
+    grams_per_tablespoon: 6.5
+
+# Salt and sugar: tsp/tbsp → grams (for packs with weight_in_gms).
+volume_to_mass_condiments:
+  - keywords: ["salt", "namak", "table salt"]
+    grams_per_teaspoon: 6
+    grams_per_tablespoon: 18
+  - keywords: ["sugar", "cheeni", "granulated sugar", "brown sugar"]
+    grams_per_teaspoon: 4
+    grams_per_tablespoon: 12
+
+# Nuts (cups/volume → grams) for quantity with weight_in_gms.
+volume_to_mass_nuts:
+  - keywords: ["peanut", "peanuts", "moongphali", "groundnut"]
+    grams_per_cup: 140
+  - keywords: ["cashew", "cashews", "kaju"]
+    grams_per_cup: 140
+  - keywords: ["almond", "almonds", "badam"]
+    grams_per_cup: 140
+  - keywords: ["nuts", "mixed nuts"]
+    grams_per_cup: 130
+# Whole seeds (tsp/tbsp → grams). Match before powder "cumin" so "cumin seeds" gets seeds density.
+volume_to_mass_seeds:
+  - keywords: ["cumin seeds", "jeera seeds", "coriander seeds", "mustard seeds", "rai", "saunf", "fennel seeds"]
+    grams_per_teaspoon: 2.2
+    grams_per_tablespoon: 7
+
+# When product has no weight_in_gms (e.g. BigBasket), assume pack size in grams for quantity = ceil(need_grams / pack).
+default_pack_grams:
+  - keywords: ["powder", "spice", "turmeric", "chilli", "coriander", "cumin", "garam masala", "pepper", "masala"]
+    grams: 100
+  - keywords: ["flour", "maida", "atta", "besan", "gram flour", "urad dal flour"]
+    grams: 500
+  - keywords: ["salt", "sugar", "namak", "cheeni"]
+    grams: 500
+  - keywords: ["peanut", "cashew", "almond", "nuts", "seeds"]
+    grams: 200
+  - keywords: ["rice", "dal", "pulse"]
+    grams: 500
+
+# Liquids (oil, etc.): recipe in ml → quantity = ceil(ml / ml_per_unit). No weight_in_gms; use bottle size.
+liquid_ml_per_unit:
+  - keywords: ["oil", "vegetable oil", "cooking oil", "mustard oil", "refined oil", "sunflower oil", "groundnut oil", "tel"]
+    ml_per_unit: 500
+  - keywords: ["ghee", "clarified butter"]
+    ml_per_unit: 500
+
+# Vegetables/fruits: approximate grams per piece so "6 potatoes" + 1kg product → 1 unit not 6.
+piece_to_grams_vegetables:
+  - keywords: ["potato", "potatoes", "aloo"]
+    grams_per_piece: 100
+  - keywords: ["onion", "onions"]
+    grams_per_piece: 80
+  - keywords: ["tomato", "tomatoes"]
+    grams_per_piece: 80
+  - keywords: ["cucumber", "cucumbers", "kheera"]
+    grams_per_piece: 120
+  - keywords: ["carrot", "carrots", "gajar"]
+    grams_per_piece: 60
+  - keywords: ["capsicum", "bell pepper", "shimla mirch"]
+    grams_per_piece: 100
+  - keywords: ["bitter gourd", "karela"]
+    grams_per_piece: 80
+  - keywords: ["green chilli", "green chillies", "hari mirch"]
+    grams_per_piece: 5
+  - keywords: ["red chilli", "red chillies", "dry red chilli", "lal mirch", "whole red chilli"]
+    grams_per_piece: 3
+  - keywords: ["lemon", "lime", "nimbu"]
+    grams_per_piece: 50
+  - keywords: ["ginger", "adrak"]
+    grams_per_piece: 15
+  - keywords: ["garlic", "lahsun"]
+    grams_per_piece: 5
+  - keywords: ["cabbage", "gobi", "cauliflower"]
+    grams_per_piece: 200
+  - keywords: ["brinjal", "eggplant", "baingan"]
+    grams_per_piece: 150
+  - keywords: ["spinach", "palak"]
+    grams_per_piece: 30
+  - keywords: ["beans", "green beans", "french beans"]
+    grams_per_piece: 10
+  - keywords: ["coconut", "nariyal", "fresh coconut"]
+    grams_per_piece: 400
