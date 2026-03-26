@@ -1,0 +1,26 @@
+{
+  "stats@1": {
+    "mAP": 0.9666666666666667,
+    "n_queries": 150,
+    "n_recipes": 10,
+    "n_no_candidates": 4,
+    "total_ingredients": 154,
+    "mean_ap_per_recipe": 0.9492203907203907
+  },
+  "stats@5": {
+    "mAP": 0.9731574074074073,
+    "n_queries": 150,
+    "n_recipes": 10,
+    "n_no_candidates": 4,
+    "total_ingredients": 154,
+    "mean_ap_per_recipe": 0.9528826592389092
+  },
+  "stats@10": {
+    "mAP": 0.973615520282187,
+    "n_queries": 150,
+    "n_recipes": 10,
+    "n_no_candidates": 4,
+    "total_ingredients": 154,
+    "mean_ap_per_recipe": 0.9527673455053911
+  }
+}

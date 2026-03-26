@@ -1,12 +1,21 @@
 #!/usr/bin/env python3
 """
 Run evaluation: mAP@k, efficiency benchmark, failure analysis, quantity verification.
-Writes results to output/evaluation/.
-Usage: python scripts/run_evaluation.py [--quick]
+Writes results to output/evaluation/ or output/evaluation/<model_slug>/ when --model is set.
+
+Usage:
+  python scripts/run_evaluation.py [--quick]
+  python scripts/run_evaluation.py --model gemma3:1b [--quick]
+  python scripts/run_evaluation.py --model gemma3:4b [--quick]
+  python scripts/run_evaluation.py --model gemma3:12b [--quick]
+
   --quick: use 10 recipes for mAP and 3 for efficiency/quantity (faster).
+  --model: Ollama model name (e.g. gemma3:1b, gemma3:4b, gemma3:12b). Sets OLLAMA_MODEL
+           and writes to output/evaluation/<model_slug>/ for comparison.
 """
 import argparse
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -26,13 +35,24 @@ from src.evaluate import (
 )
 
 
-def run_evaluation(quick: bool = False) -> None:
-    """Run full evaluation; write results to output/evaluation/."""
-    out_dir = ROOT / "output" / "evaluation"
+def _model_slug(model: str | None) -> str:
+    """Convert e.g. gemma3:4b -> gemma3_4b for directory names."""
+    if not model:
+        return "default"
+    return model.replace(":", "_").replace("/", "_")
+
+
+def run_evaluation(quick: bool = False, model: str | None = None) -> None:
+    """Run full evaluation; write results to output/evaluation/ or output/evaluation/<model_slug>/ when --model is set."""
+    if model:
+        slug = _model_slug(model)
+        out_dir = ROOT / "output" / "evaluation" / slug
+    else:
+        out_dir = ROOT / "output" / "evaluation"
     out_dir.mkdir(parents=True, exist_ok=True)
 
     max_recipes = 10 if quick else 50
-    print("Evaluation")
+    print("Evaluation" + (f" (model={model})" if model else ""))
     print("=" * 50)
 
     # 1. mAP@k
@@ -73,6 +93,8 @@ def run_evaluation(quick: bool = False) -> None:
     print("\n3. Efficiency benchmark (build_cart latency)...")
     n_eff = 3 if quick else 5
     eff = run_efficiency_benchmark(n_recipes=n_eff, use_reranker=True)
+    if model:
+        eff["model"] = model
     print(f"   Mean latency per recipe: {eff['mean_latency_seconds']:.2f} s")
     print(f"   Mean time per ingredient: {eff['mean_time_per_ingredient_seconds']:.2f} s")
     with open(out_dir / "efficiency.json", "w") as f:
@@ -87,14 +109,18 @@ def run_evaluation(quick: bool = False) -> None:
     print(f"   Rows: {len(qty_rows)} (saved for manual verification)")
     print(f"   Saved {out_dir / 'quantity_verification_sample.csv'}")
 
-    print("\nDone. Results in output/evaluation/")
+    print(f"\nDone. Results in {out_dir}")
 
 
 def main():
-    ap = argparse.ArgumentParser()
+    ap = argparse.ArgumentParser(description="Run evaluation (mAP, failures, efficiency, quantity verification).")
     ap.add_argument("--quick", action="store_true", help="Fewer recipes for faster run")
+    ap.add_argument("--model", type=str, default=None,
+                    help="Ollama model name (e.g. gemma3:1b, gemma3:4b, gemma3:12b). Results written to output/evaluation/<model_slug>/")
     args = ap.parse_args()
-    run_evaluation(quick=args.quick)
+    if args.model:
+        os.environ["OLLAMA_MODEL"] = args.model
+    run_evaluation(quick=args.quick, model=args.model)
 
 
 if __name__ == "__main__":

@@ -1,7 +1,11 @@
 """
 Minimal Ollama API client for ingredient extraction, normalisation, re-ranking.
 Uses POST /api/chat with stream=false.
+
+Model selection: config/ollama.yaml sets the default model. The environment variable
+OLLAMA_MODEL overrides it for the process (e.g. for multi-model evaluation).
 """
+import os
 from pathlib import Path
 from typing import Any, Optional
 
@@ -9,19 +13,23 @@ import requests
 
 
 def get_ollama_config() -> dict[str, Any]:
-    """Load config from config/ollama.yaml; fallback to defaults."""
+    """Load config from config/ollama.yaml; fallback to defaults. OLLAMA_MODEL env overrides model."""
     root = Path(__file__).resolve().parent.parent
     config_path = root / "config" / "ollama.yaml"
     defaults = {"base_url": "http://localhost:11434", "model": "gemma3:4b", "timeout": 120}
     if not config_path.exists():
-        return defaults
-    try:
-        import yaml
-        with open(config_path) as f:
-            cfg = yaml.safe_load(f) or {}
-        return {**defaults, **cfg}
-    except Exception:
-        return defaults
+        cfg = dict(defaults)
+    else:
+        try:
+            import yaml
+            with open(config_path) as f:
+                cfg = yaml.safe_load(f) or {}
+            cfg = {**defaults, **cfg}
+        except Exception:
+            cfg = dict(defaults)
+    if os.environ.get("OLLAMA_MODEL"):
+        cfg["model"] = os.environ["OLLAMA_MODEL"]
+    return cfg
 
 
 def chat(
