@@ -85,42 +85,6 @@ python scripts/fill_ingredient_synonyms.py --limit 50 --dry-run
 
 ---
 
-## Thesis and presentation
-
-- **Thesis (Markdown):** `Final Thesis/THESIS_Recipe_to_Cart_Varun_Sharma.md` — full final thesis text, tables, and embedded figures.
-- **Figures:** `Final Thesis/figures/` — e.g. mAP and efficiency plots; optional assets such as Ollama UI screenshots. Regenerate result charts after evaluation:
-
-  ```bash
-  python scripts/generate_thesis_figures.py
-  ```
-
-- **PowerPoint (with speaker notes):**
-
-  ```bash
-  pip install python-pptx   # listed in requirements.txt
-  python scripts/generate_thesis_presentation.py
-  ```
-
-  Output: `Final Thesis/Recipe_to_Cart_Thesis_Presentation.pptx`
-
-- **Markdown → Word (optional):** `scripts/md_to_docx.py` — converts thesis Markdown to DOCX for formatting in Word.
-
----
-
-## Documentation (`docs/`)
-
-| Document | Purpose |
-| -------- | ------- |
-| **ANALYSIS_AND_DESIGN.md** | System analysis and design (aligns with thesis Chapter 4) |
-| **EVALUATION_MODEL_COMPARISON.md** | Multi-model evaluation layout and commands |
-| **RESEARCH_METHODOLOGY.md** | Methodology narrative |
-| **LITERATURE_REVIEW.md** | Literature review draft |
-| **REPORT.md** / **EXPERIMENT_RESULTS.md** | Reports and experiment notes |
-| **FUNCTIONAL_TEST_RESULTS.md** | Functional test summary |
-| **PLAN_ZEPTO_MIGRATION.md** | Zepto catalogue migration |
-
----
-
 ## Tests
 
 Automated tests (pytest) cover recipe/product loading, LLM output parsing, retrieval, filtering/ranking, quantity logic, and end-to-end cart building:
@@ -137,12 +101,10 @@ pytest tests/ -q
 config/           paths, ollama, params, YAML rules (synonyms, units, form rules) — see config/README.md
 dataset/          RecipeData.csv, BigBasketProducts.csv, zepto/zepto_v2.csv
 docs/             analysis, methodology, evaluation, reports (see table above)
-Final Thesis/     THESIS_Recipe_to_Cart_Varun_Sharma.md, figures/, Recipe_to_Cart_Thesis_Presentation.pptx (generated)
 notebooks/        data exploration, extraction, retrieval/cart, evaluation
 output/           products_food*.csv, evaluation_set_50_recipes.csv, evaluation/, carts/
 scripts/          prepare_data, extract_ingredients, recipe_to_cart, run_pipeline,
-                  run_evaluation, compare_model_evaluations, fill_ingredient_synonyms,
-                  generate_thesis_figures, generate_thesis_presentation, md_to_docx
+                  run_evaluation, compare_model_evaluations, fill_ingredient_synonyms
 src/              loaders, ingredient_extractor, quantity_normaliser, ollama_client,
                   candidate_retriever, product_form_filter, reranker, quantity_optimiser,
                   build_cart, evaluate
