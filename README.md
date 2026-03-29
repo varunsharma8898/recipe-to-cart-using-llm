@@ -2,8 +2,6 @@
 
 Recipe name in → cart out. Uses a **local LLM** (Gemma3 via **Ollama**) for ingredient extraction, normalisation, and re-ranking, and **BM25** for product retrieval. Supports **BigBasket** and **Zepto**-style catalogues.
 
-Planning and config reference: **PROJECT_PLAN.md**, **NEXT_STEPS.md**, and **config/README.md**.
-
 ---
 
 ## Datasets
@@ -13,7 +11,7 @@ Planning and config reference: **PROJECT_PLAN.md**, **NEXT_STEPS.md**, and **con
   - **BigBasket** – `dataset/BigBasketProducts.csv`
   - **Zepto** – `dataset/zepto/zepto_v2.csv` (prices in CSV are ×100; includes `weightInGms` for quantity logic)
 
-Set `products_source: "zepto"` or `"bigbasket"` in `config/paths.yaml`. Zepto migration notes: `docs/PLAN_ZEPTO_MIGRATION.md`.
+Set `products_source: "zepto"` or `"bigbasket"` in `config/paths.yaml`.
 
 ---
 
@@ -65,7 +63,7 @@ for m in gemma3:1b gemma3:4b gemma3:12b; do PYTHONPATH=. python scripts/run_eval
 PYTHONPATH=. python scripts/compare_model_evaluations.py --quick
 ```
 
-Results under `output/evaluation/` (per-model subfolders when using `--model`). Details: **docs/EVALUATION_MODEL_COMPARISON.md**.
+Results under `output/evaluation/` (per-model subfolders when using `--model`).
 
 **More examples:**
 
